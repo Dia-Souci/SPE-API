@@ -1,0 +1,1001 @@
+,Project,Country,Start,End,Budget,FindingSource (%),Category,TRL Start,TRL End,profit (%),Emissions decrease,Label
+0,"Kohler, Wilkinson and Buckridge",Dominican Republic,9/20/2021,8/14/2024,$36399069.63,77,capture,2,3,-4,6.3,1
+1,Smitham and Sons,China,8/3/2020,4/18/2024,$48806994.79,84,utilization,7,5,-6,1.5,0
+2,"Jenkins, Huels and Zulauf",United States,1/5/2023,6/10/2024,$11548939.83,82.6,utilization,3,4,14,1.6,1
+3,"Terry, Emmerich and Berge",Sweden,12/7/2021,12/4/2023,$17512435.77,71.1,utilization,6,3,7,7.1,0
+4,"Padberg, Schamberger and Will",Philippines,3/19/2023,8/18/2024,$18929345.53,66.8,capture,4,7,0,6.9,0
+5,Langosh-Goyette,Latvia,9/13/2023,2/25/2026,$85803031.51,71,capture,2,5,23,4.1,0
+6,"MacGyver, Medhurst and Crist",China,8/21/2020,8/1/2024,$92619410.63,52.7,T&S,1,5,24,7.2,0
+7,Funk-Grimes,South Korea,1/8/2023,11/26/2023,$43628459.23,59.7,utilization,6,3,4,7.1,0
+8,"Ebert, Robel and Wehner",China,3/7/2021,5/30/2025,$27798710.15,76.6,T&S,9,9,-4,4.7,1
+9,Shields Inc,Turkmenistan,12/9/2021,3/22/2025,$20241378.28,83.9,T&S,6,6,-4,4.7,1
+10,"Bradtke, Bednar and Wehner",Czech Republic,10/21/2022,3/24/2026,$23970618.14,87.7,capture,2,3,34,3.9,1
+11,"Anderson, Murray and Bailey",Egypt,11/1/2019,7/22/2025,$44781578.27,97.5,capture,9,3,30,7.9,1
+12,Hickle-Grimes,Philippines,8/29/2021,2/29/2024,$31355291.10,58.2,T&S,7,4,18,8.2,1
+13,Blick-Erdman,Indonesia,7/5/2022,10/15/2026,$4614590.26,65.6,T&S,8,4,1,4.6,1
+14,"Medhurst, Dach and Price",China,8/23/2021,2/13/2025,$27572306.16,82.8,T&S,9,6,15,6.4,0
+15,McLaughlin LLC,Brazil,9/6/2021,12/16/2024,$42372298.67,65.5,T&S,8,8,15,2.6,1
+16,Stokes LLC,Philippines,9/27/2022,6/9/2025,$12019468.29,90.3,Full Chain,6,7,10,7.2,0
+17,"Dickens, Bahringer and Torphy",Indonesia,4/30/2020,5/29/2025,$37373937.28,71.5,T&S,9,3,-9,5.9,1
+18,Walsh LLC,France,11/6/2021,5/18/2026,$83122881.68,60,Full Chain,1,5,32,7.2,0
+19,"Gibson, Blick and Gleichner",China,12/28/2019,1/4/2026,$45054302.72,81.4,utilization,3,2,34,5.1,0
+20,Bergnaum-Crist,Poland,11/30/2022,6/17/2025,$88672476.90,92.9,capture,4,4,30,9.2,0
+21,Keebler and Sons,Benin,5/30/2022,9/21/2026,$57815956.35,97.5,T&S,9,3,-10,3,1
+22,"Feeney, Bechtelar and McDermott",Peru,4/21/2020,9/30/2025,$62459246.84,98.1,capture,7,5,15,3.4,0
+23,"Smitham, Gulgowski and Fadel",Indonesia,4/28/2023,11/23/2025,$50768312.50,91.3,utilization,9,4,35,4.6,1
+24,Jacobi Inc,Mexico,9/24/2021,7/27/2025,$16424478.35,90,Full Chain,4,5,11,2.8,1
+25,"Herzog, Lueilwitz and Stanton",Indonesia,8/9/2023,8/22/2025,$62452917.03,76,Full Chain,8,2,-6,4.6,0
+26,"Leffler, Hills and Rutherford",Slovenia,2/7/2021,5/23/2025,$51253242.24,51.8,utilization,7,4,26,6.9,0
+27,"Okuneva, Morar and Morar",Zimbabwe,5/5/2022,6/6/2026,$13077723.83,65.1,T&S,4,3,31,3.6,1
+28,Ward Group,South Africa,11/9/2021,10/23/2025,$74857188.86,87.1,Full Chain,5,7,25,5.2,0
+29,Pollich LLC,Poland,1/17/2022,3/18/2024,$47769884.13,90.8,utilization,6,9,0,2,0
+30,Stoltenberg-Swift,China,2/12/2022,1/16/2024,$79560974.05,56.1,utilization,9,5,22,1.9,0
+31,"Braun, Kessler and Hintz",Philippines,11/4/2022,10/15/2026,$87305720.60,80.9,utilization,2,5,2,7.4,0
+32,Stark-Gerlach,Indonesia,9/6/2023,6/22/2026,$95771886.23,70.7,Full Chain,3,8,22,8.5,0
+33,Rolfson and Sons,Nigeria,6/7/2021,12/6/2023,$22571027.42,67,capture,5,6,6,5.7,0
+34,Davis Inc,Sweden,11/11/2022,9/5/2024,$60141322.44,73.4,T&S,7,2,8,3.7,0
+35,"Goldner, Welch and Kertzmann",China,11/25/2022,12/14/2024,$97468952.99,56.7,T&S,6,5,-5,7.8,0
+36,Bergnaum-Mante,China,2/11/2022,7/16/2026,$45529361.75,99.4,capture,7,3,7,2.2,1
+37,Berge-Lind,France,9/2/2022,5/14/2025,$19601105.04,86.5,utilization,1,3,19,1.9,1
+38,Rowe and Sons,Poland,1/18/2021,1/6/2026,$50688039.51,93.6,Full Chain,2,9,0,9.3,1
+39,Schuster-Stokes,China,11/20/2022,7/3/2025,$76879362.47,92.5,capture,2,7,31,3.8,0
+40,Howell Inc,Indonesia,8/31/2023,7/18/2026,$67310214.34,52.1,T&S,6,6,1,2,0
+41,Beer LLC,Dominican Republic,1/18/2021,11/24/2025,$28610557.45,73.3,utilization,6,3,-8,2.4,1
+42,"Wilderman, Lubowitz and Koss",China,9/14/2023,4/8/2024,$22711793.12,58.9,utilization,4,3,2,3.6,1
+43,Lakin LLC,Russia,11/26/2019,6/18/2025,$27446237.61,84.9,T&S,8,4,34,7.3,1
+44,"Lemke, Wuckert and Altenwerth",Philippines,10/12/2021,2/6/2025,$32339526.83,52.8,Full Chain,5,2,-2,2.9,1
+45,White Group,Indonesia,10/30/2020,7/10/2026,$19580320.36,93.2,utilization,1,6,17,5.6,0
+46,Kessler Group,Indonesia,8/8/2022,2/17/2025,$43094991.29,63.7,capture,8,8,-4,2.4,0
+47,Bednar Group,Indonesia,2/26/2023,5/9/2026,$26107163.30,71.6,capture,6,2,31,4,0
+48,Hickle-Walsh,Colombia,6/15/2023,8/2/2024,$5971213.36,56.3,utilization,6,4,23,4.4,0
+49,Goyette-Leannon,Thailand,5/5/2023,8/12/2026,$90208870.39,78.3,capture,7,9,28,2.5,0
+50,Zemlak-Cruickshank,Turkmenistan,10/2/2021,9/2/2025,$99958085.63,66.5,Full Chain,1,7,7,1.4,1
+51,Jacobs-Stiedemann,China,8/10/2021,2/5/2024,$10135509.25,60.2,utilization,2,3,30,3.4,0
+52,Heidenreich-Heaney,Thailand,7/15/2023,3/10/2024,$89700414.58,70.2,T&S,2,2,33,3.8,0
+53,"Fay, Dickens and Quigley",Brazil,3/10/2020,3/26/2024,$69722465.32,90,T&S,6,8,6,2,1
+54,"Brekke, Hane and Purdy",Dominican Republic,10/27/2022,7/15/2026,$97956359.40,58.1,Full Chain,5,4,16,7,0
+55,Wiza Group,Panama,8/22/2023,3/18/2026,$91121814.76,65.5,utilization,4,7,21,5.9,0
+56,Heathcote-Rolfson,Poland,12/1/2019,6/21/2026,$42535161.12,73.9,T&S,9,2,9,9.5,1
+57,"Heaney, Streich and Jones",Indonesia,8/11/2020,8/23/2024,$55548435.94,60.3,T&S,2,3,12,6,1
+58,Cremin-Legros,Sweden,1/30/2023,11/24/2024,$23202689.33,89,T&S,6,8,-7,9.7,0
+59,"Crooks, Homenick and Kunze",United States,3/30/2020,6/29/2025,$48740662.17,72.6,Full Chain,2,4,21,3.6,1
+60,"Beier, Pouros and Wiegand",Brazil,5/18/2022,4/5/2024,$19844707.03,81.5,Full Chain,6,3,31,6.4,1
+61,Dooley LLC,China,3/6/2021,7/11/2026,$29305555.09,56,utilization,3,8,-9,8,0
+62,Rippin and Sons,Portugal,4/15/2022,6/27/2026,$82816178.98,87.9,utilization,1,3,0,9.5,0
+63,"Okuneva, Sporer and Heaney",Russia,8/27/2021,2/21/2025,$70282088.63,90.7,utilization,5,9,3,9.2,0
+64,Runte-Parisian,Colombia,10/9/2021,11/30/2023,$22456796.58,77.1,T&S,1,5,27,3.3,1
+65,Lesch Group,China,3/25/2022,6/27/2026,$54149181.79,88.5,utilization,8,9,27,6.4,0
+66,Johns Inc,Philippines,2/3/2020,12/21/2024,$28918653.57,51.7,T&S,4,2,5,2.1,1
+67,Hahn LLC,Philippines,7/17/2022,6/11/2026,$10709957.34,79.9,capture,8,2,23,3,0
+68,Mante Inc,United States,12/8/2019,12/14/2025,$37128835.52,79.5,T&S,9,8,24,5,1
+69,Lesch and Sons,China,7/30/2021,3/14/2025,$59810421.20,78.5,T&S,9,3,27,8.1,1
+70,"Koepp, Schumm and Daniel",Portugal,6/26/2020,12/31/2024,$46671651.57,78.1,T&S,9,8,-8,6,1
+71,Gutkowski Inc,Canada,11/29/2019,2/15/2026,$48982773.98,56.9,Full Chain,3,5,1,6.6,1
+72,Wilkinson-Marvin,Philippines,5/14/2022,8/12/2025,$77091547.47,93.6,utilization,5,8,33,8.8,0
+73,"Nader, D'Amore and Stiedemann",China,12/13/2022,12/4/2025,$12045646.32,88.9,T&S,3,7,-1,8.1,1
+74,Ebert-Pouros,Mongolia,3/10/2021,12/25/2025,$78036994.84,52.1,T&S,6,8,-7,3.2,0
+75,Quigley and Sons,Guyana,11/4/2022,7/16/2025,$12793439.04,88.1,capture,7,4,29,5.1,0
+76,Stoltenberg-Denesik,China,1/30/2023,3/3/2024,$58088394.35,97.9,Full Chain,4,8,-5,3.1,0
+77,"Schowalter, O'Hara and Cronin",Russia,10/15/2020,7/15/2025,$34383527.09,72.7,T&S,7,5,22,2.8,1
+78,Ziemann-Wolff,Argentina,3/6/2020,10/7/2025,$17915576.05,63,utilization,9,6,33,4.3,0
+79,"Baumbach, Carroll and Beier",South Korea,11/28/2020,8/3/2025,$24342604.32,55.9,capture,4,6,6,1.4,1
+80,"Thiel, Cummings and Hauck",Guatemala,12/26/2022,4/16/2025,$16084827.61,89.6,capture,9,8,1,6.2,0
+81,Rolfson-Bruen,China,12/24/2021,10/3/2024,$44249749.38,71.4,utilization,9,7,24,5.2,0
+82,Cummings Inc,Indonesia,1/19/2023,1/31/2026,$64129862.09,56.3,T&S,2,9,19,2.6,0
+83,Brekke-Spencer,Argentina,3/21/2023,8/1/2025,$48764977.36,89.9,T&S,8,6,-5,1.1,0
+84,"Hills, Morissette and Reinger",Yemen,3/10/2023,12/29/2023,$40534788.98,56,Full Chain,2,8,10,8.7,0
+85,Cronin Inc,France,5/3/2022,8/21/2024,$95130605.51,66.8,Full Chain,7,2,24,1.2,0
+86,Kuhic and Sons,Venezuela,10/1/2020,9/29/2026,$43227849.23,55.6,utilization,3,4,26,1.8,1
+87,Willms LLC,Spain,1/7/2022,8/12/2024,$52727642.32,89.6,utilization,4,2,30,3.7,1
+88,O'Conner-Mraz,Nigeria,3/12/2023,9/19/2026,$97661436.17,73.2,T&S,5,3,-7,8.2,1
+89,Schuppe and Sons,Democratic Republic of the Congo,4/27/2023,10/22/2024,$12503326.25,93.9,utilization,9,9,22,8.4,0
+90,D'Amore-Macejkovic,Thailand,11/18/2020,2/23/2024,$64592579.99,53.3,Full Chain,6,9,19,7.8,0
+91,"Hackett, Hartmann and Predovic",France,11/4/2019,4/3/2025,$39812097.90,74.2,Full Chain,8,3,1,4.5,1
+92,O'Hara-Effertz,Morocco,6/17/2022,10/12/2025,$58360437.17,70.8,utilization,1,7,-4,4.9,0
+93,Lowe Group,Argentina,9/23/2020,5/3/2024,$43990917.02,68.1,utilization,2,5,-6,5.6,0
+94,"Stiedemann, Lakin and Pouros",Croatia,2/16/2020,6/7/2025,$51545331.92,67.9,Full Chain,1,2,31,1.7,1
+95,Smith-Block,Jordan,7/8/2020,11/4/2023,$18632858.50,65.8,utilization,1,4,-10,8.1,0
+96,"Jaskolski, Schmidt and Konopelski",Finland,1/23/2021,10/9/2026,$24986264.07,83.9,T&S,2,2,2,4.2,1
+97,"Wiza, Harvey and Blick",Indonesia,5/27/2023,5/16/2026,$50570495.43,96.2,utilization,3,2,20,7.9,0
+98,"Hamill, Erdman and Bins",Colombia,5/26/2022,11/12/2025,$77352507.78,82.9,utilization,5,8,9,4.4,0
+99,Hartmann LLC,Indonesia,4/22/2023,1/8/2024,$84928093.01,74.7,utilization,1,8,34,8.2,0
+100,"Wolf, Heidenreich and Davis",China,10/8/2021,3/14/2026,$72887221.90,90.1,T&S,8,9,6,5.8,1
+101,Ruecker-Kub,Canada,3/21/2021,10/23/2024,$65507149.18,79.8,T&S,6,3,-7,7.1,1
+102,Rowe-Wisozk,Russia,7/18/2021,9/23/2024,$88979055.69,99.4,capture,9,6,3,6.7,0
+103,"Cremin, Streich and Prosacco",Indonesia,3/29/2021,1/20/2025,$26000022.88,74.8,capture,7,5,22,4.6,0
+104,Douglas Inc,China,5/15/2022,11/19/2023,$35513831.89,91.4,utilization,6,8,17,9.1,0
+105,Prosacco-Kertzmann,Colombia,3/21/2022,10/8/2026,$87841462.78,62.2,T&S,7,4,-5,3.4,0
+106,"Shanahan, Gislason and Jacobi",China,10/2/2020,7/3/2024,$50508284.91,51.9,capture,6,8,4,3.5,0
+107,Becker-Crooks,Kyrgyzstan,4/8/2020,6/19/2024,$46092006.79,64.9,utilization,4,9,15,7.9,0
+108,Sauer-White,Kazakhstan,9/24/2022,11/11/2025,$5704114.80,73.9,T&S,1,8,22,4.3,0
+109,Sanford LLC,China,5/23/2021,7/11/2024,$38568350.31,75,Full Chain,8,6,-8,8.7,0
+110,Waelchi-Streich,Czech Republic,6/22/2021,9/7/2025,$75528282.49,56,capture,1,3,34,5.2,0
+111,Turner-Dooley,China,10/21/2022,9/25/2026,$94206630.73,58.1,T&S,3,9,20,3.2,0
+112,Lebsack Group,Poland,5/13/2022,7/11/2026,$93954500.18,81.6,utilization,9,7,23,3.4,0
+113,Hammes LLC,Greece,11/23/2019,7/7/2026,$66260973.70,99.7,T&S,8,6,21,1.8,0
+114,Zulauf and Sons,China,8/26/2020,5/23/2026,$83467260.81,96.2,capture,4,7,32,5.5,0
+115,"Kessler, Hoeger and Erdman",China,9/6/2022,8/2/2024,$95229218.35,92.4,utilization,9,5,3,4.6,0
+116,Douglas-Schumm,China,2/24/2022,12/24/2024,$93822371.38,83.3,T&S,9,5,-7,2.5,0
+117,"Goldner, Schulist and Reynolds",Indonesia,10/8/2022,4/15/2024,$37094624.08,65.4,T&S,7,6,7,5.8,0
+118,Kutch LLC,Indonesia,12/1/2022,4/7/2025,$92714343.75,66.1,T&S,7,7,26,3.5,0
+119,Feest-Thompson,Germany,5/5/2023,6/16/2026,$56539637.14,84.1,Full Chain,8,8,-10,7.9,0
+120,Carroll-Lesch,Finland,6/18/2021,3/21/2026,$61401657.54,79.8,T&S,8,7,18,8.3,0
+121,Kuvalis-Steuber,Ukraine,7/31/2023,8/13/2025,$51938079.20,69.9,capture,4,4,-9,9.8,1
+122,Kreiger Inc,Argentina,5/31/2022,5/9/2025,$59833624.28,94.5,capture,8,3,10,4.5,0
+123,Waelchi-Gutmann,Indonesia,6/29/2023,9/28/2024,$90667690.36,55.4,T&S,2,7,0,3.2,0
+124,Koepp-Grant,Slovenia,7/29/2023,1/25/2025,$23184387.31,89.9,T&S,7,2,35,4.9,1
+125,Kris-Rath,Vietnam,8/18/2022,7/27/2025,$2392342.55,93.7,Full Chain,7,4,32,8.1,1
+126,Schoen LLC,Liberia,7/7/2023,5/31/2024,$82541808.30,81.2,T&S,5,2,13,5.5,0
+127,Bode-Price,Brazil,9/9/2020,1/6/2025,$90046932.53,58,Full Chain,9,6,19,7.8,0
+128,"Auer, Adams and Spinka",Russia,5/31/2022,4/14/2024,$64625790.14,80.6,capture,7,4,10,5.2,0
+129,"Rath, Beier and Marquardt",China,3/11/2022,5/24/2025,$13754576.10,64.9,T&S,2,8,27,4.4,0
+130,Corkery and Sons,Japan,3/29/2020,10/17/2026,$42193397.59,81.7,T&S,4,6,11,2,1
+131,Nienow LLC,Poland,8/21/2022,12/21/2024,$36057833.52,62,capture,4,9,-1,6.1,0
+132,"Bernier, Huel and Berge",Mexico,11/28/2019,4/14/2025,$6790940.35,65.5,utilization,6,3,-4,5,1
+133,Spinka-Lockman,Colombia,5/3/2022,9/6/2026,$52249824.82,76.7,utilization,4,5,25,7.1,0
+134,"Koch, Pagac and Torp",Colombia,6/28/2022,1/16/2024,$52634636.59,74,utilization,2,4,-3,5,0
+135,Bechtelar-Waelchi,Brazil,7/20/2021,2/10/2025,$54430837.28,78.1,Full Chain,7,7,3,4,1
+136,Sawayn LLC,Ukraine,7/27/2020,12/29/2023,$8724818.15,56.3,capture,7,4,-2,7.5,1
+137,Mante and Sons,Philippines,12/3/2021,2/17/2025,$89780205.78,69.4,capture,8,7,7,5.6,0
+138,Johnson-Prosacco,Colombia,12/21/2019,12/28/2023,$73184184.30,79,capture,7,7,24,4.3,0
+139,Lindgren-Huel,Japan,7/26/2022,10/29/2024,$46426764.51,51.7,utilization,3,5,15,7.7,0
+140,"Schaden, Gerlach and Rau",Canada,11/17/2019,5/21/2026,$11497891.10,90.1,Full Chain,1,9,-6,2.6,1
+141,Cummerata LLC,Azerbaijan,7/15/2020,4/5/2026,$14885235.59,96.2,utilization,6,2,-8,7.8,0
+142,"Robel, Paucek and Crona",Burundi,5/17/2022,4/6/2024,$72460770.04,58.7,utilization,6,8,6,2.8,0
+143,Macejkovic-Brown,China,3/10/2022,7/31/2025,$42389539.43,64.7,utilization,6,5,12,2.5,0
+144,"Frami, Balistreri and Bruen",South Korea,12/6/2020,6/22/2025,$50352239.13,74.9,utilization,5,3,18,7.4,0
+145,"Miller, Bode and Bruen",Canada,9/19/2020,3/28/2024,$19324028.39,96.2,T&S,7,8,28,2.2,1
+146,Botsford-Langosh,Dominican Republic,8/17/2020,4/11/2026,$3381941.60,55.4,capture,8,7,30,2.2,0
+147,Mertz-Gleichner,Indonesia,1/8/2023,12/8/2024,$49284726.53,94.2,capture,2,6,27,7.5,0
+148,Gutkowski-Gottlieb,Indonesia,12/30/2020,5/31/2024,$98994802.07,62.3,T&S,5,5,26,6.5,0
+149,Brakus-Nienow,Indonesia,3/29/2021,1/23/2025,$70628319.98,64.3,capture,2,7,34,7.9,0
+150,Hintz-Torphy,Philippines,6/24/2022,7/9/2025,$70480688.19,81.7,capture,8,9,-3,8.5,0
+151,Casper and Sons,Japan,12/14/2021,11/29/2025,$59943824.00,91.8,Full Chain,5,5,-2,5.5,1
+152,"Farrell, Wintheiser and Kling",China,7/30/2020,11/27/2023,$91994828.89,98.1,utilization,8,5,-5,9.5,0
+153,Corkery-Littel,Slovenia,2/5/2020,11/3/2023,$79297081.96,78.7,capture,7,8,14,6.8,0
+154,"Bogan, Deckow and Fay",Croatia,8/17/2022,5/1/2026,$76740150.34,93.9,utilization,6,8,11,8,0
+155,Satterfield Group,Nigeria,3/14/2022,5/25/2025,$32575943.06,61.7,T&S,8,2,20,4.5,0
+156,Zemlak LLC,China,1/2/2023,12/22/2025,$78480138.96,52.3,utilization,2,5,0,2.1,0
+157,Gerlach-Murazik,United States,10/29/2020,6/24/2025,$91058745.86,87.3,utilization,4,5,27,4.9,0
+158,Langworth-Spinka,Sweden,1/22/2022,1/12/2026,$44245228.95,55.7,utilization,6,2,-3,5.1,0
+159,Labadie LLC,Indonesia,10/21/2022,1/13/2025,$18027805.52,57.2,utilization,3,9,25,5.7,0
+160,Johnson-Strosin,Bangladesh,6/15/2023,10/16/2024,$69724543.67,65.7,utilization,7,2,20,2.9,0
+161,"Schaden, Jacobi and Pagac",China,8/28/2020,9/29/2024,$90707111.96,73.8,Full Chain,2,4,10,8.5,1
+162,Marks LLC,China,1/5/2021,12/14/2024,$33158427.65,97.6,T&S,9,9,-2,2.7,0
+163,Witting-McGlynn,Portugal,4/22/2023,2/12/2026,$54504809.10,51.2,T&S,6,4,4,6.7,1
+164,"Ondricka, Harris and Hamill",United States,5/21/2023,1/31/2024,$43489052.50,51.9,T&S,2,6,-10,8.3,1
+165,Ryan and Sons,Russia,9/4/2023,11/8/2025,$17717950.47,94.1,T&S,9,9,-9,1.4,0
+166,"Cartwright, Kassulke and Brown",Nicaragua,8/10/2023,8/25/2024,$98054486.54,75.4,Full Chain,6,7,-5,4.1,0
+167,McGlynn Inc,Croatia,5/24/2023,4/23/2025,$10300424.54,84.7,utilization,3,8,12,9.5,0
+168,"Littel, Ebert and Halvorson",Serbia,8/3/2020,6/21/2025,$5090095.17,73.9,T&S,9,5,-4,8.2,1
+169,"Kunze, Stracke and Heathcote",China,12/24/2021,2/20/2026,$34319107.93,98.8,Full Chain,5,3,24,4.5,1
+170,Raynor LLC,United States,8/5/2021,7/11/2025,$67208685.51,75,T&S,8,5,6,10,1
+171,Auer-O'Reilly,Indonesia,4/30/2023,10/21/2024,$41258942.98,79.3,Full Chain,9,3,-5,7.3,0
+172,West-Russel,Guatemala,7/18/2022,11/21/2024,$11550691.18,93.6,utilization,4,6,11,4.8,0
+173,Schowalter-Daugherty,Germany,7/8/2020,2/25/2026,$46244260.20,95.1,T&S,7,2,7,5.5,1
+174,"Oberbrunner, Strosin and Medhurst",Philippines,9/27/2022,12/11/2024,$44972913.36,78.2,utilization,2,7,27,9.4,0
+175,Runte LLC,Philippines,7/20/2022,2/19/2025,$95666910.61,74.9,T&S,8,3,30,8.4,0
+176,"Hackett, Boehm and Harber",Costa Rica,7/19/2021,5/27/2026,$87601014.40,70.5,T&S,6,5,22,2.7,1
+177,Maggio-West,China,8/14/2021,4/29/2025,$92773493.18,59.5,utilization,1,4,9,3,0
+178,Pouros LLC,Brazil,1/24/2023,8/4/2024,$66368075.62,68.8,utilization,6,9,8,1.3,0
+179,"Dibbert, Ebert and Johnson",Indonesia,4/23/2020,5/24/2026,$51948930.95,68.7,utilization,2,3,-9,5.3,1
+180,"Murphy, Larson and Kunze",Colombia,8/4/2023,9/22/2026,$23407882.04,53.9,utilization,8,6,29,1.6,0
+181,"Klocko, Heidenreich and Altenwerth",Colombia,5/3/2023,4/3/2026,$50407597.22,52.8,capture,8,3,10,8,0
+182,Leannon and Sons,Azerbaijan,11/2/2021,10/27/2024,$11805621.92,77.5,utilization,3,4,35,7.1,0
+183,Wiza Inc,China,12/1/2022,12/23/2024,$46773106.17,83.5,capture,6,4,18,3.4,0
+184,Heller-Rau,Colombia,9/19/2021,2/3/2026,$46075302.87,90.8,capture,4,9,19,3.3,0
+185,"Friesen, Wyman and Howell",China,1/27/2023,5/19/2025,$75953884.25,56.4,Full Chain,6,2,4,2.3,0
+186,"Kuhlman, Lindgren and Wehner",China,8/31/2020,8/21/2025,$42642069.72,84.7,Full Chain,8,9,5,3.8,1
+187,"Mante, Armstrong and Schowalter",Indonesia,6/29/2021,1/23/2024,$93933202.23,81.3,Full Chain,8,3,19,9.7,0
+188,"Hermann, Toy and Gorczany",Japan,7/16/2022,10/8/2026,$44318232.32,60.7,utilization,5,2,35,8.4,0
+189,Glover-Bartell,China,3/3/2021,4/12/2026,$75382582.64,69.2,utilization,4,9,24,2,0
+190,Gulgowski-Pfeffer,China,2/24/2020,9/26/2026,$31701715.81,81.2,Full Chain,8,2,26,4.6,1
+191,"Romaguera, Hagenes and Schowalter",New Zealand,4/12/2021,1/9/2026,$11958067.46,84.7,capture,4,5,7,4.4,1
+192,"Thompson, Goldner and Luettgen",Peru,1/25/2021,2/24/2026,$31801297.21,61.1,Full Chain,6,4,-6,9.7,1
+193,Boehm Inc,Japan,2/23/2021,4/17/2025,$99962802.62,73.7,utilization,3,3,5,9.3,0
+194,Lindgren Inc,Portugal,9/30/2020,4/24/2024,$99971155.73,79.7,capture,6,8,10,3.8,0
+195,"Herzog, Kuvalis and Kuhic",Indonesia,6/21/2023,9/28/2025,$14066669.76,72.7,T&S,2,9,-5,5.8,1
+196,"Yost, Stiedemann and Braun",Brazil,3/10/2020,4/8/2024,$79749909.69,81.9,Full Chain,4,9,27,7.8,0
+197,"Denesik, Maggio and Haag",Philippines,12/2/2022,10/13/2024,$75077856.76,96.2,T&S,2,8,-2,5.5,0
+198,Emmerich Group,China,2/7/2022,8/23/2025,$79197420.92,95.2,capture,6,9,-2,9.5,0
+199,"Stokes, Block and Walsh",France,6/11/2020,9/24/2024,$92795252.27,55.5,T&S,5,6,-2,1.3,0
+200,VonRueden-Marvin,Colombia,11/30/2020,9/9/2026,$84417471.52,90.1,utilization,4,8,17,3.9,0
+201,"Marquardt, Tremblay and Haag",Peru,4/11/2020,1/23/2025,$12980051.97,71.6,utilization,5,3,16,2.4,1
+202,Kirlin Group,Syria,6/20/2022,4/16/2025,$52088858.22,83.2,utilization,2,8,32,7.2,0
+203,McClure LLC,Slovenia,3/8/2023,10/21/2026,$6351952.08,100,T&S,2,6,21,1.4,1
+204,Larson Inc,Sri Lanka,11/28/2022,6/6/2026,$35815643.63,74.5,Full Chain,4,2,21,7.3,1
+205,"Ankunding, Hettinger and Parker",Indonesia,12/19/2019,2/13/2026,$77792177.27,50.4,Full Chain,9,5,20,9.2,0
+206,"O'Connell, Pagac and Ondricka",Thailand,6/9/2020,8/30/2026,$81698449.10,66.6,capture,6,3,14,6.4,0
+207,Skiles and Sons,United Kingdom,3/28/2021,1/22/2025,$60646264.93,99.2,Full Chain,1,3,34,2.6,1
+208,Pacocha Group,Indonesia,2/21/2023,3/12/2026,$36933690.78,54.7,Full Chain,6,2,-6,5.8,1
+209,Haag-Beer,Colombia,9/14/2021,5/24/2025,$42622288.28,56.6,utilization,6,7,33,8,0
+210,Wehner-Hoeger,Japan,2/13/2021,10/22/2025,$43370907.04,58.4,Full Chain,7,8,-7,6.1,1
+211,"Langosh, Bins and Dare",Portugal,11/9/2021,4/22/2024,$62619317.82,56.7,utilization,4,3,14,4.9,0
+212,Haag and Sons,China,4/9/2021,3/12/2026,$81009390.21,55.6,Full Chain,2,5,16,1.2,1
+213,Lowe-Stokes,France,12/2/2022,7/12/2026,$16847966.20,54.4,capture,8,8,21,5.9,0
+214,Tillman and Sons,Bulgaria,8/25/2021,6/22/2026,$10077468.39,85.1,T&S,7,6,13,5.7,0
+215,Sipes LLC,Iran,1/24/2023,7/21/2026,$83633923.44,55.1,T&S,6,8,13,4.1,0
+216,Berge-Yost,Venezuela,11/29/2022,11/6/2023,$78469884.42,73.2,T&S,3,3,27,8,0
+217,Bogisich LLC,Malaysia,7/11/2022,8/6/2026,$39395242.77,69.2,utilization,2,7,8,1.9,0
+218,"Olson, Klein and Bahringer",Japan,2/5/2020,5/2/2025,$71342288.61,52.6,utilization,3,7,-9,8.4,0
+219,Feil-Balistreri,Russia,3/29/2022,3/23/2024,$93504230.62,68.8,capture,7,7,4,2.9,0
+220,Lakin and Sons,Poland,12/27/2021,7/8/2025,$97674824.33,99.9,capture,3,4,21,4.9,0
+221,Farrell and Sons,France,2/26/2023,8/13/2025,$34359136.69,65.1,T&S,8,3,30,3.1,0
+222,Gleason-Halvorson,France,3/18/2023,9/9/2025,$27675325.56,98.8,T&S,1,2,7,4,1
+223,"Kovacek, Mueller and Goodwin",Philippines,12/28/2020,10/9/2024,$73769651.01,64.5,capture,8,8,33,7.4,0
+224,Blanda-Sawayn,Philippines,8/24/2021,9/13/2025,$44479674.06,96.1,capture,4,8,35,5.9,0
+225,Smitham-Runolfsson,Portugal,8/28/2020,11/11/2024,$8331223.00,65.3,capture,4,8,1,3.3,0
+226,Crist-Larson,Czech Republic,10/31/2022,12/24/2024,$40978824.65,84,capture,7,5,8,8.5,0
+227,Rice-Barrows,China,9/13/2020,5/13/2025,$30500611.32,65.4,capture,5,5,8,2.5,1
+228,Gutkowski-Larkin,Portugal,6/26/2023,1/8/2026,$96323248.68,83.5,T&S,5,7,28,8.3,0
+229,O'Conner-Ullrich,China,10/16/2021,5/24/2025,$62325318.89,70.7,capture,7,5,-5,1.1,0
+230,"Maggio, Miller and Sipes",Colombia,3/27/2020,4/2/2025,$20343812.57,71.2,capture,2,4,17,2,1
+231,Kris Inc,Guatemala,1/2/2021,3/24/2025,$62611199.07,66.7,Full Chain,2,6,-6,3.4,1
+232,Simonis Group,Argentina,8/28/2022,6/29/2025,$2007379.19,72.8,utilization,8,6,30,5.4,0
+233,"Armstrong, Flatley and Borer",China,10/13/2020,5/16/2025,$27128968.40,93.5,T&S,2,7,10,7.2,1
+234,Dickinson and Sons,Guinea,1/10/2021,3/29/2026,$39553893.53,76.2,Full Chain,5,5,4,3.3,1
+235,Dibbert Group,Russia,9/13/2022,6/25/2025,$37251346.37,87,utilization,4,6,18,6,0
+236,"Kshlerin, Johnson and Lind",China,4/24/2021,8/13/2024,$2258538.30,58.5,utilization,4,4,11,3.5,0
+237,Tremblay Group,Croatia,8/10/2023,3/21/2025,$78301871.33,71,utilization,2,9,31,8.7,0
+238,Kreiger-Bartoletti,Poland,11/13/2022,11/5/2024,$84827607.12,51.5,T&S,8,2,23,6.7,0
+239,"Beatty, VonRueden and DuBuque",China,7/28/2022,1/13/2026,$6860445.51,78,T&S,1,4,-10,7.9,1
+240,"Goyette, Casper and Hyatt",China,3/15/2020,4/29/2026,$7638041.54,75.4,Full Chain,4,2,32,9.5,1
+241,Kunze-Pacocha,Russia,12/7/2019,7/9/2024,$69945866.39,54.7,capture,6,3,-2,1.1,0
+242,Kunde-Stamm,Vietnam,10/18/2021,1/23/2024,$52240964.18,82.7,Full Chain,5,4,17,3,1
+243,Hyatt and Sons,China,3/28/2020,7/5/2024,$43206133.70,66,T&S,7,9,6,5,1
+244,Stark-Klein,Portugal,12/17/2021,3/28/2025,$64069231.76,61.4,Full Chain,2,9,19,6,0
+245,Powlowski Inc,Honduras,1/1/2022,8/14/2026,$47822646.13,57.1,Full Chain,9,2,8,6.7,1
+246,"Kessler, Jakubowski and Legros",Mexico,5/21/2023,3/20/2026,$9477409.18,56.6,T&S,2,2,-1,6.9,1
+247,Windler Inc,Finland,8/4/2021,4/28/2025,$89850141.03,79.3,capture,8,4,-1,7.6,0
+248,"Haag, Bogan and Bergstrom",Colombia,5/13/2023,5/7/2025,$37163758.77,55.5,capture,4,9,10,2.5,0
+249,Jakubowski-O'Keefe,Philippines,7/13/2021,11/20/2024,$38995483.32,50.8,utilization,9,9,1,8.5,0
+250,Wilkinson Inc,Cuba,7/6/2022,8/16/2024,$42907657.80,62.8,T&S,4,9,28,3.3,0
+251,"O'Conner, Corwin and Streich",Netherlands,12/7/2020,9/6/2024,$30147962.21,95.3,T&S,5,4,12,5.4,1
+252,Upton-Baumbach,China,9/11/2020,11/21/2024,$88256963.94,51.9,T&S,4,2,2,7.4,1
+253,Skiles Inc,China,9/20/2020,4/21/2024,$6400262.28,76.8,Full Chain,4,2,17,9.5,1
+254,"Langworth, Rutherford and Hammes",Vietnam,4/1/2020,4/24/2024,$23546694.33,61.6,T&S,8,9,-5,4.2,1
+255,Swift and Sons,Portugal,6/11/2020,2/19/2025,$54394370.47,82.3,T&S,5,6,0,2.7,1
+256,"Parisian, Kessler and Franecki",Czech Republic,9/11/2022,4/28/2025,$99261059.38,74.5,T&S,5,7,20,8.5,0
+257,Jacobi Inc,China,5/24/2021,8/29/2024,$47560202.79,82.7,T&S,6,8,27,7.2,0
+258,"Flatley, Balistreri and Collins",China,2/27/2020,11/19/2023,$22663561.34,75.8,T&S,3,9,17,9.2,1
+259,"Fritsch, Schowalter and Prosacco",China,6/12/2021,5/15/2026,$44682269.54,74,T&S,8,2,-9,10,1
+260,Pagac Inc,Russia,3/6/2022,6/24/2026,$21491888.89,82.7,capture,9,5,17,5.1,0
+261,"Batz, Hahn and Jerde",Japan,1/2/2023,2/15/2026,$76137799.42,70.8,utilization,5,3,18,6.7,0
+262,Jones and Sons,Indonesia,8/25/2021,6/3/2026,$72274527.60,89,T&S,1,5,6,5.1,1
+263,Hilpert and Sons,Portugal,9/2/2023,8/14/2024,$16174266.04,98.3,capture,9,5,29,1.1,1
+264,Rosenbaum-Cummerata,Luxembourg,12/2/2019,4/26/2025,$43237109.57,58.7,utilization,8,9,11,6.6,0
+265,Runte-King,Japan,2/15/2023,6/20/2024,$10781116.30,51.3,T&S,7,6,21,1.9,0
+266,"Lehner, Abshire and Ferry",Philippines,5/27/2022,7/2/2025,$44092074.11,58.4,utilization,9,6,-3,4.7,0
+267,Goodwin-Cormier,Indonesia,2/3/2020,12/17/2024,$73541578.49,98.2,capture,6,9,18,9.8,0
+268,Gottlieb-Smitham,Syria,12/9/2020,6/2/2024,$41450372.25,70.9,capture,1,5,23,10,1
+269,Goyette Group,Poland,4/12/2021,6/18/2025,$72180191.59,54.4,T&S,8,8,31,2.4,0
+270,"Casper, Hackett and Ward",Sweden,6/24/2021,4/26/2024,$21268541.87,51.3,T&S,1,5,1,9.3,1
+271,Nitzsche-Robel,Russia,4/28/2021,9/26/2024,$58155694.45,92.7,T&S,3,7,5,7.1,1
+272,Corkery-Kunde,Indonesia,9/14/2023,9/16/2025,$47957193.06,95.9,Full Chain,6,8,10,3.8,0
+273,"Skiles, Shanahan and Prohaska",China,9/4/2020,10/22/2024,$92536169.82,61.5,capture,3,2,26,8.1,0
+274,Wintheiser Group,Chile,5/12/2022,6/28/2026,$56241976.53,88.7,utilization,5,4,1,9.1,0
+275,Olson-O'Kon,Poland,5/2/2023,12/4/2025,$68566511.73,62.1,utilization,4,4,32,4.4,0
+276,Wilkinson LLC,Slovenia,1/12/2023,10/29/2025,$72421142.66,55.6,capture,9,8,-4,6.8,0
+277,DuBuque Inc,Russia,6/27/2020,5/2/2026,$56900762.82,52.8,utilization,5,4,25,9.3,0
+278,Huels-Muller,China,1/21/2022,3/17/2025,$25093467.41,90.9,T&S,1,8,24,8.7,1
+279,Littel LLC,Argentina,10/22/2021,2/12/2025,$86301974.40,71.9,T&S,2,3,35,5.2,0
+280,Senger-Mante,Mongolia,2/28/2023,6/24/2024,$79220109.25,72.7,T&S,9,2,29,2.8,0
+281,Frami LLC,China,5/7/2023,3/20/2024,$49338310.00,53.5,T&S,5,6,0,3,0
+282,Kulas-Schuster,China,9/29/2020,3/21/2026,$26650627.95,65.7,capture,9,7,-5,5.4,0
+283,Konopelski LLC,Colombia,7/9/2021,8/10/2026,$9567138.90,94.5,utilization,4,3,26,1.8,1
+284,"Effertz, Reilly and Larkin",Portugal,8/2/2020,12/3/2025,$61634165.88,62.9,utilization,8,5,13,7.7,0
+285,Hayes-Towne,Russia,11/12/2022,3/29/2026,$70539124.03,79.1,utilization,9,2,-4,5.8,0
+286,McLaughlin Group,United States,11/3/2021,7/5/2024,$60330772.57,63.4,Full Chain,1,3,26,2,1
+287,Williamson-Mayer,China,6/29/2021,9/26/2024,$90201385.87,50.2,capture,7,3,7,2.5,0
+288,Luettgen-Toy,United States,10/2/2021,7/6/2024,$84370672.35,76.9,capture,4,4,13,5.5,0
+289,Stamm-Kuhn,Poland,11/3/2019,3/7/2024,$90694903.56,93.9,T&S,1,3,-6,2,1
+290,"Gutmann, Goyette and Boehm",Portugal,6/4/2022,6/23/2025,$39624456.17,57.2,utilization,2,8,-10,7,0
+291,Lang Inc,Czech Republic,2/27/2020,7/3/2026,$94554826.47,57.6,utilization,7,8,23,7.5,0
+292,"Cremin, Schmidt and Rutherford",Canada,12/10/2019,8/29/2024,$46491084.47,68.3,utilization,7,7,22,6.1,0
+293,Spencer-Hand,Poland,5/29/2023,8/25/2026,$84220032.71,54.8,T&S,9,3,-10,9.6,0
+294,"Corkery, Kihn and Muller",Thailand,1/29/2020,8/23/2026,$97572836.57,83.8,capture,6,6,0,2.6,0
+295,"Crooks, Shanahan and Swaniawski",Jordan,2/1/2022,3/4/2025,$21034796.28,89.1,utilization,5,2,34,1.5,1
+296,"Dare, Jones and Wolff",Kosovo,4/7/2020,11/22/2025,$25664141.03,73.6,capture,3,8,18,7,0
+297,"Schoen, Funk and Kunde",Peru,1/26/2021,5/3/2024,$52789842.16,82.7,utilization,9,8,12,8.1,0
+298,"Watsica, Howell and Glover",Peru,7/17/2021,12/21/2025,$22632934.84,51.3,T&S,5,6,8,2.5,1
+299,Kuphal Inc,Canada,6/16/2021,1/14/2024,$21780936.33,67.8,Full Chain,5,9,28,3.3,0
+300,Lindgren-Nader,Russia,3/23/2022,6/19/2024,$29251723.37,70.9,capture,7,2,24,1.7,0
+301,Williamson Group,United Kingdom,8/8/2023,7/24/2026,$87008652.45,90.6,Full Chain,4,6,4,2.6,0
+302,"Swift, Gulgowski and Green",China,4/1/2023,4/15/2024,$21629787.09,56.4,Full Chain,9,9,-2,1.4,0
+303,"Shanahan, Wisoky and Collins",China,10/17/2022,5/10/2025,$57659736.14,78.6,Full Chain,2,2,27,4.2,1
+304,"Crona, Goldner and Conroy",China,4/6/2021,5/22/2025,$10520462.72,74.3,Full Chain,7,3,14,4,1
+305,Okuneva LLC,China,5/17/2021,9/2/2026,$9741477.31,69.4,capture,5,4,25,5,1
+306,"Renner, Spinka and Bailey",Indonesia,9/9/2022,5/12/2025,$85826391.09,91.8,T&S,8,4,0,1.9,0
+307,Morissette-Zulauf,United States,2/11/2022,9/18/2025,$7115223.38,76.6,utilization,9,9,-1,2.4,0
+308,Spinka and Sons,China,9/10/2023,2/3/2025,$72663732.02,99.2,capture,4,2,10,4.3,0
+309,"Carroll, Beatty and Wisoky",Indonesia,3/5/2020,5/22/2024,$83160702.53,53,utilization,2,5,17,9.6,0
+310,Hessel-Hyatt,China,1/19/2023,10/18/2024,$64888093.38,75.5,capture,2,5,-5,2.6,0
+311,"Kertzmann, Anderson and Cummerata",Russia,2/16/2023,5/24/2025,$21403604.38,54,capture,7,9,26,8.7,0
+312,Yost-Ernser,United States,4/30/2022,1/23/2026,$59367906.69,57.3,T&S,4,7,25,3.8,0
+313,Denesik-Ebert,China,2/10/2021,3/12/2026,$31982334.36,90.2,utilization,3,9,29,6.9,0
+314,Vandervort Inc,Kazakhstan,4/7/2023,12/11/2025,$94654161.83,74,utilization,8,7,11,1.7,0
+315,Luettgen-Hayes,Norway,1/14/2023,8/28/2024,$94365384.36,86.3,utilization,5,8,12,5.9,0
+316,Wunsch Group,Poland,11/26/2022,12/5/2023,$75540045.05,56.4,capture,5,2,10,8.8,0
+317,Bosco-Zboncak,Venezuela,3/10/2022,12/24/2025,$75747444.64,77.8,capture,8,5,9,3.8,0
+318,Wisozk and Sons,Yemen,5/25/2022,1/19/2024,$39851412.36,76,T&S,4,9,33,9.1,0
+319,Jones LLC,Philippines,12/1/2019,1/17/2024,$66190426.53,76,T&S,8,4,-2,2.4,0
+320,"O'Reilly, Fritsch and Jacobson",Iran,7/12/2023,4/21/2024,$19277724.78,76.4,capture,9,8,17,4.4,0
+321,"Hirthe, MacGyver and Konopelski",China,7/2/2020,3/23/2024,$81060597.55,91.2,Full Chain,9,8,23,1.6,1
+322,Jacobi-Glover,China,5/9/2022,12/1/2025,$42342576.35,66.9,utilization,9,6,28,3.6,0
+323,"Balistreri, Kertzmann and Bruen",Indonesia,1/12/2022,5/7/2026,$89609074.13,87.7,Full Chain,5,3,16,9.1,1
+324,"Douglas, Hahn and Wintheiser",Honduras,6/21/2021,11/12/2023,$28326063.62,54.5,Full Chain,7,2,-3,5,1
+325,Moore-Moore,China,12/17/2020,4/13/2024,$3273705.03,93.6,T&S,3,3,12,4.3,1
+326,"McLaughlin, Powlowski and Russel",Jamaica,5/24/2023,8/11/2026,$19590141.93,95.6,Full Chain,3,4,33,2.3,1
+327,Jaskolski-Morissette,Sweden,8/3/2021,9/5/2026,$58840681.17,63.6,Full Chain,8,3,18,5.1,1
+328,"Reichert, Hudson and Hessel",Luxembourg,2/1/2021,1/20/2026,$13286884.71,84.4,utilization,1,9,32,2.4,0
+329,Paucek-Feeney,France,1/7/2023,8/10/2026,$46770649.37,89.8,capture,7,4,20,2.6,1
+330,Marks Inc,Indonesia,1/7/2020,7/11/2024,$37809540.38,63.8,utilization,8,7,16,3.6,0
+331,Kiehn Group,Czech Republic,4/2/2022,8/19/2026,$64048082.92,92.9,capture,9,4,15,7.1,1
+332,Jacobs-Ebert,Indonesia,8/11/2020,4/9/2026,$64768407.65,87.5,Full Chain,2,3,35,6.2,1
+333,Schowalter-Herzog,France,12/5/2021,2/3/2024,$66112057.26,50.3,utilization,9,2,-5,4.4,0
+334,Ziemann-Konopelski,France,9/16/2022,12/31/2025,$18746474.49,60.6,capture,7,9,11,9.9,0
+335,Abernathy LLC,China,4/8/2023,9/21/2026,$89463711.51,56.6,utilization,8,4,29,3.3,0
+336,Hand Inc,France,9/19/2022,4/17/2025,$16760577.29,91.3,Full Chain,1,4,16,5,1
+337,"Kihn, D'Amore and Cartwright",Kazakhstan,7/26/2022,10/12/2025,$8985195.29,80.9,Full Chain,8,9,24,8.5,0
+338,Lubowitz Inc,Uruguay,3/21/2022,12/28/2023,$44764114.52,93.2,utilization,2,5,31,1.6,0
+339,"Larson, Kessler and Howell",Honduras,12/3/2021,7/20/2026,$11002553.21,70.3,utilization,7,8,11,4.5,0
+340,Cassin and Sons,Nicaragua,2/9/2023,7/17/2024,$3179145.06,56.8,T&S,1,9,21,9.6,0
+341,McClure Group,China,12/27/2022,10/2/2025,$70723404.06,92.5,Full Chain,7,2,-10,7.4,1
+342,"Cassin, Friesen and Mertz",Indonesia,9/1/2023,3/26/2024,$65027930.32,62.9,capture,9,4,8,9.6,0
+343,Lesch-Hyatt,Iran,11/8/2021,6/22/2024,$85671016.35,51.7,capture,7,9,12,2.8,0
+344,"Hartmann, Ernser and Wilderman",Thailand,2/17/2022,9/30/2024,$75816994.98,69.9,utilization,3,9,4,5.2,0
+345,"Vandervort, Bayer and Considine",Sudan,1/30/2022,3/12/2024,$62210724.17,60.5,utilization,4,6,0,9.3,0
+346,Corkery Group,China,9/24/2022,4/5/2025,$70883219.59,87.3,capture,5,4,4,7.2,0
+347,Bednar-Strosin,Brazil,2/23/2021,2/1/2025,$88000878.47,80.5,capture,9,8,12,7.5,0
+348,Jerde-Blick,China,5/14/2022,6/29/2025,$28380743.72,94.2,Full Chain,3,4,25,7.3,1
+349,"Hills, Gerhold and Dare",Indonesia,12/14/2022,6/4/2024,$6652072.79,79.8,T&S,2,8,2,7.6,1
+350,Bahringer LLC,Portugal,3/15/2021,7/19/2026,$91164484.56,74.8,utilization,9,8,26,3.6,0
+351,Ernser and Sons,Peru,7/3/2021,5/5/2025,$95462627.75,95.8,capture,2,8,10,9,0
+352,Crona Group,China,6/29/2022,1/23/2025,$71318844.80,81.7,Full Chain,3,3,5,2.6,0
+353,Auer LLC,Russia,6/20/2022,9/1/2025,$57181150.42,68,T&S,8,7,35,4,1
+354,Hermann LLC,Palestinian Territory,1/25/2023,3/6/2024,$77845903.01,60.1,Full Chain,7,8,-3,8.7,0
+355,"Howe, Pfannerstill and Schimmel",Ukraine,3/13/2022,12/2/2023,$76614998.42,60.8,Full Chain,8,5,20,8.3,0
+356,Auer-Towne,Cuba,6/18/2022,6/23/2024,$58291438.41,73.8,Full Chain,3,9,5,4.8,0
+357,"Osinski, Boyle and Rippin",Poland,5/25/2021,7/26/2024,$96398407.85,56,T&S,4,3,29,3.7,0
+358,Hintz and Sons,Ukraine,11/13/2021,7/4/2025,$58483563.67,80.8,Full Chain,5,4,3,2.6,1
+359,"Bechtelar, Olson and Kilback",Thailand,6/16/2021,9/10/2024,$38546392.24,67.8,Full Chain,9,8,34,2.7,1
+360,Connelly Group,Afghanistan,10/5/2020,2/29/2024,$12299530.19,95.3,T&S,9,9,-10,4.1,0
+361,"Predovic, Reichel and Koepp",Japan,5/29/2020,5/28/2026,$40519436.48,76.6,T&S,5,5,32,2,1
+362,"Hand, Mante and Hodkiewicz",Colombia,2/25/2021,3/1/2024,$56351667.15,95.7,Full Chain,4,5,4,7.3,1
+363,"Turcotte, Kshlerin and Hermiston",France,12/19/2019,7/12/2026,$90003699.02,96.3,Full Chain,8,6,17,3.3,0
+364,Langosh-Moore,Egypt,7/13/2022,4/14/2024,$90207527.59,89.6,Full Chain,2,7,9,2.1,0
+365,Beer-O'Connell,Indonesia,4/13/2021,7/31/2026,$44875420.10,64.7,T&S,5,5,32,3.8,1
+366,Terry-Bashirian,Indonesia,7/5/2020,2/25/2026,$10462690.36,98.2,capture,5,7,20,8.7,0
+367,Bahringer-Gerlach,China,10/15/2022,6/16/2026,$44111647.51,56.6,capture,2,7,-1,2.1,0
+368,Denesik-Marquardt,Greece,8/22/2022,6/18/2024,$85130993.12,82.2,T&S,8,7,0,9.1,0
+369,"Koch, Mraz and Koch",Czech Republic,4/21/2021,2/6/2024,$64761342.63,89.6,utilization,2,9,24,9.6,0
+370,Okuneva Group,Portugal,6/4/2023,6/9/2024,$79804269.65,84.4,capture,1,4,-8,4.4,0
+371,Gleason-Little,Indonesia,7/20/2022,12/17/2023,$53648740.25,71.1,Full Chain,7,2,19,4.1,0
+372,Schoen Inc,Mongolia,12/9/2021,4/26/2024,$3860444.29,89,capture,3,4,21,1.8,1
+373,Prosacco LLC,Peru,7/5/2021,12/11/2024,$40371056.75,58.9,T&S,5,4,-3,5.5,1
+374,"Cartwright, Sipes and Wyman",Dominican Republic,11/18/2021,12/19/2024,$5668333.58,84.3,capture,9,5,31,6.9,0
+375,Lockman Group,Brazil,6/12/2023,12/25/2025,$53730328.19,70.8,T&S,6,6,16,9.2,1
+376,Goldner-Carroll,Portugal,7/10/2023,12/28/2023,$13618691.01,55.8,Full Chain,1,6,6,1.2,0
+377,Wuckert-Blick,Czech Republic,7/12/2021,1/6/2024,$78598007.64,68.1,T&S,6,4,-5,7.6,0
+378,Feest and Sons,Russia,12/18/2021,9/27/2024,$4219740.55,76.4,capture,1,8,29,4,0
+379,"Hilll, Ebert and Raynor",Russia,2/11/2023,11/25/2023,$5362890.66,83.5,T&S,3,2,-1,4.1,1
+380,Dibbert LLC,Peru,7/16/2023,6/19/2026,$52731380.20,94.9,T&S,6,9,21,8.8,0
+381,Trantow-Medhurst,France,2/22/2022,6/30/2025,$71091033.07,96.3,Full Chain,5,8,26,4.5,0
+382,Connelly-Kessler,Portugal,11/28/2022,3/4/2025,$78738289.40,86.9,Full Chain,1,4,1,7.3,1
+383,Larson LLC,Japan,8/19/2021,9/19/2026,$10290398.87,67.6,Full Chain,4,5,-8,1.5,1
+384,"Durgan, Cronin and Runolfsdottir",El Salvador,4/3/2023,11/10/2023,$75477092.57,78.4,Full Chain,5,9,26,5.7,0
+385,"Leffler, Waelchi and Lowe",Indonesia,4/18/2022,3/19/2025,$15362899.87,66,utilization,8,5,8,8.5,0
+386,Reichert-Tillman,China,8/21/2023,6/16/2025,$87997955.06,78,T&S,6,4,21,9.4,0
+387,Terry-Tillman,Poland,6/15/2021,5/23/2024,$4327441.32,53.1,utilization,3,9,-9,2.6,0
+388,Kertzmann-Stehr,Russia,5/27/2021,6/12/2026,$95071201.55,79.7,T&S,5,4,14,9.8,1
+389,Glover-Kirlin,Russia,3/13/2022,9/23/2025,$88672040.61,54.4,T&S,7,4,-2,2.5,0
+390,"Swaniawski, Welch and Johns",Argentina,2/1/2022,7/26/2025,$82045347.00,92.3,utilization,4,8,32,5.2,0
+391,"Goodwin, O'Keefe and Heller",France,10/13/2021,2/19/2025,$71101096.58,64.2,utilization,6,9,-5,2.2,0
+392,Blanda-Davis,China,8/26/2023,6/17/2024,$3604078.42,79.4,capture,1,3,19,2,1
+393,Keeling-Hayes,Philippines,8/6/2023,5/10/2025,$37996200.86,79.3,Full Chain,8,7,27,4.5,1
+394,"Moore, Rath and Feil",Poland,12/13/2021,8/9/2026,$22674675.00,98.8,Full Chain,5,4,24,4.8,1
+395,"Daniel, Langworth and Boyle",Russia,8/23/2021,3/10/2026,$30492905.55,63.1,Full Chain,8,3,-5,1,1
+396,Von LLC,Russia,10/5/2020,5/22/2025,$24166399.95,57.5,capture,4,4,3,9.5,1
+397,"Sanford, Funk and Upton",Indonesia,5/27/2023,6/30/2024,$72386885.82,89.6,utilization,1,8,2,4.7,0
+398,Kemmer and Sons,Poland,12/26/2019,9/10/2025,$17132895.27,95.7,Full Chain,4,5,-9,7.4,1
+399,Gulgowski-Goyette,Brazil,3/27/2023,5/5/2024,$7280505.24,82.2,capture,7,7,26,6.7,0
+400,McDermott and Sons,China,8/13/2022,12/1/2025,$80839982.00,78.3,Full Chain,1,2,28,3.3,1
+401,Stracke Inc,Libya,5/18/2021,4/16/2025,$75287904.41,53,utilization,1,4,-6,8.5,0
+402,"Gerlach, Pagac and Beahan",Jamaica,6/4/2023,6/25/2025,$94526533.26,95.7,capture,1,7,0,5.6,0
+403,"Torp, Nicolas and Bartell",Brazil,3/2/2021,6/3/2024,$36112651.49,82,Full Chain,2,4,5,1.4,0
+404,Williamson Group,South Korea,2/22/2020,10/10/2026,$89060771.66,98.9,Full Chain,4,3,12,8.1,1
+405,Torphy-Ernser,Indonesia,4/24/2023,9/11/2025,$1861453.10,67.5,T&S,5,8,-5,2.2,0
+406,Jacobi Inc,Syria,3/1/2021,10/6/2026,$88254892.91,77.2,utilization,1,3,28,5.2,0
+407,Schuster Inc,South Africa,1/16/2021,3/13/2026,$53735167.44,54,utilization,1,3,10,1.1,1
+408,Schulist-Ullrich,Yemen,12/31/2022,6/2/2025,$53602498.06,52.8,utilization,5,7,35,9.7,0
+409,Cruickshank-Feeney,Thailand,11/14/2020,5/30/2026,$23084164.10,95.7,Full Chain,9,7,8,1.1,1
+410,"Crona, Schinner and Auer",Russia,7/27/2022,3/3/2024,$55063227.44,54.6,T&S,5,5,7,5.5,0
+411,McKenzie-Price,Cuba,4/21/2022,11/13/2023,$67450054.57,62.9,T&S,4,3,8,2.9,0
+412,Bechtelar-Batz,Brazil,3/1/2020,10/10/2025,$82229562.86,94,utilization,1,4,9,8,0
+413,Mayer and Sons,China,6/6/2023,7/6/2024,$91607037.08,50.6,T&S,2,5,14,9.5,0
+414,Leuschke Inc,Philippines,5/24/2022,5/9/2024,$81236800.03,85.4,T&S,9,2,6,2.3,0
+415,Orn Inc,Portugal,12/27/2021,4/12/2026,$56900586.02,79.7,T&S,5,8,3,2.6,1
+416,Block LLC,China,9/12/2022,7/4/2024,$31817857.69,56.8,utilization,4,3,32,2.1,0
+417,Dickinson Group,Norway,6/23/2022,4/24/2025,$90357070.31,50.6,Full Chain,9,2,6,4,0
+418,"Emmerich, Stamm and Shanahan",United States,4/26/2023,2/3/2025,$59485056.18,56.7,Full Chain,7,9,25,9.6,0
+419,Legros Inc,Finland,11/20/2020,2/2/2024,$81539241.04,60.2,utilization,1,3,-2,2.5,0
+420,Nolan Group,Norway,10/13/2021,6/26/2024,$79523226.05,85.8,T&S,6,9,12,4.4,0
+421,Thiel-Hauck,Indonesia,12/20/2019,5/14/2024,$8439850.99,68.4,Full Chain,5,3,-10,3.9,1
+422,"Erdman, Kunze and Corwin",Sweden,1/22/2022,9/27/2024,$67160556.16,54.6,T&S,9,4,29,2.3,0
+423,"Koss, Bartoletti and Labadie",Ireland,8/17/2022,9/10/2026,$85959881.91,68.7,T&S,3,7,34,2.1,0
+424,"Ratke, Aufderhar and Kuhlman",Poland,7/10/2022,4/24/2026,$41917438.42,70.5,Full Chain,9,2,12,2.4,1
+425,Luettgen LLC,Nigeria,3/19/2020,10/8/2024,$14981866.98,70,Full Chain,8,9,32,9.6,0
+426,Cremin Group,Croatia,8/2/2021,1/9/2026,$39592086.19,90.9,utilization,4,4,5,4.9,1
+427,Orn and Sons,Brazil,3/15/2021,9/15/2025,$57642949.95,50.4,T&S,7,4,30,7.1,0
+428,"Bahringer, Graham and Lynch",China,1/5/2023,8/4/2026,$30259421.46,67.1,capture,2,3,26,3.1,1
+429,Mante-Flatley,China,2/2/2023,2/17/2026,$52027398.61,94.7,T&S,3,9,21,7.6,0
+430,Gusikowski Inc,Ukraine,8/5/2023,3/24/2025,$59594232.55,76.8,utilization,8,6,9,1.2,0
+431,Daniel-Kemmer,Indonesia,4/14/2020,1/12/2026,$63732334.51,89.7,T&S,8,3,-4,4.4,1
+432,"Rolfson, DuBuque and Hyatt",Canada,4/22/2021,12/10/2023,$74323009.05,59.1,Full Chain,5,6,-5,8.9,0
+433,Stoltenberg-Langworth,Norway,11/15/2021,1/16/2026,$67980818.98,67.3,Full Chain,7,9,6,3.9,1
+434,Schimmel-Cummerata,Brazil,7/9/2022,7/11/2024,$14531664.88,79.6,T&S,5,8,28,4.5,0
+435,Weber-Ullrich,Nigeria,9/8/2022,12/20/2025,$51114695.98,91.9,Full Chain,9,7,0,8.2,0
+436,"Miller, Cartwright and O'Reilly",Portugal,4/11/2021,5/21/2026,$18589419.98,99.1,T&S,4,2,23,1.8,1
+437,Ward and Sons,Uganda,12/27/2020,12/10/2023,$36637805.26,95,T&S,8,6,-10,4.6,0
+438,Crooks and Sons,Peru,4/3/2022,1/11/2026,$64724821.16,88.3,T&S,9,8,-8,8.4,0
+439,Osinski Inc,French Polynesia,8/5/2020,9/4/2025,$62027831.22,75.7,capture,3,8,17,4.3,0
+440,Lindgren and Sons,Georgia,2/12/2021,2/26/2024,$43930667.26,65,Full Chain,9,3,28,6.5,1
+441,Franecki and Sons,Sweden,8/9/2023,4/21/2026,$10525190.57,67.6,Full Chain,5,5,2,9.1,1
+442,Dietrich Group,Greece,8/15/2022,11/5/2024,$38539755.88,68.6,utilization,8,2,2,4.8,0
+443,Batz-Reichel,China,4/17/2023,2/21/2024,$79246495.34,60.4,T&S,9,3,4,9.1,0
+444,O'Conner-Dare,Indonesia,10/21/2022,6/12/2024,$66423095.48,75.4,capture,3,9,11,3.6,0
+445,Kris-Christiansen,Brazil,11/15/2022,10/2/2024,$11871639.07,95.7,T&S,6,8,-5,5.1,0
+446,Legros Group,Mexico,5/1/2022,12/9/2024,$20881793.51,59.2,T&S,7,2,23,6.9,1
+447,Davis and Sons,Portugal,7/8/2021,3/5/2026,$9525897.59,92.1,T&S,5,4,27,5,1
+448,"Rau, Gleason and Raynor",Canada,1/10/2021,10/6/2025,$59866434.33,87.5,Full Chain,6,9,14,5.8,1
+449,Grady Group,Panama,11/7/2020,11/16/2025,$89585370.87,94,utilization,5,2,27,9.9,0
+450,Waelchi-Kohler,Cameroon,8/3/2022,6/25/2025,$73292445.27,69.1,T&S,9,3,31,8.8,0
+451,Kuhic Group,Thailand,7/2/2022,5/21/2024,$83091271.00,98.7,Full Chain,3,3,16,5.4,1
+452,"Reynolds, Koss and Jones",Isle of Man,12/5/2021,2/5/2024,$77229520.17,92,capture,1,7,20,1.9,0
+453,Vandervort LLC,Thailand,9/15/2023,3/8/2024,$19928096.30,65.9,capture,9,6,7,8.9,0
+454,Gerlach-Kilback,Sweden,6/22/2022,5/24/2026,$50910639.57,59,capture,5,2,7,1.6,0
+455,"Daniel, Kemmer and O'Reilly",Ukraine,10/16/2021,9/7/2024,$22932920.89,98.2,utilization,2,4,5,6.7,0
+456,Lynch-Morar,China,2/3/2021,9/3/2025,$97496350.70,68.3,T&S,7,3,9,4.2,0
+457,"Shanahan, Bode and Crist",France,9/9/2023,11/22/2024,$30167290.68,99.6,T&S,7,9,20,3.5,0
+458,"Schoen, Schuppe and Wehner",Greece,5/21/2021,3/31/2024,$4133627.16,53.7,Full Chain,6,9,-4,6.4,1
+459,Stehr-Toy,Philippines,2/18/2023,8/19/2024,$32938235.52,67.3,T&S,6,8,10,6.5,0
+460,Weber Group,Thailand,4/17/2022,6/5/2024,$95772617.94,71.2,utilization,1,4,16,2.3,0
+461,"Gulgowski, Adams and Yundt",Poland,7/18/2020,4/20/2025,$16320098.29,67.1,Full Chain,3,6,13,3.4,1
+462,Champlin Inc,China,8/9/2020,11/29/2024,$15120460.36,96.1,T&S,3,2,-5,6.8,1
+463,"Cronin, Stokes and Powlowski",Albania,3/2/2022,1/19/2026,$82275747.09,55.3,Full Chain,1,4,3,2.8,1
+464,"Runolfsdottir, Hayes and Runolfsdottir",China,5/11/2023,6/3/2026,$2337396.27,82.2,Full Chain,9,2,34,3.7,1
+465,Hintz-Shanahan,China,2/18/2023,2/18/2025,$6628115.71,83.5,Full Chain,8,7,1,7.9,0
+466,"Schmitt, Bashirian and Wehner",Indonesia,3/29/2021,1/18/2024,$51054645.33,96.4,capture,1,5,28,8.8,0
+467,Strosin-Kirlin,Russia,1/29/2021,12/6/2023,$38504337.37,60.4,Full Chain,4,7,28,6.5,0
+468,Stark-Nicolas,China,7/29/2023,12/3/2023,$7437403.49,56.2,Full Chain,2,6,31,4.6,0
+469,Murphy-Schulist,Nigeria,10/17/2022,2/9/2024,$2773786.30,67.3,Full Chain,1,5,15,4.3,0
+470,"Mraz, Ratke and Daniel",Bulgaria,2/17/2022,5/2/2025,$75235206.15,70.4,utilization,6,5,22,9.9,0
+471,Boyle-Medhurst,Argentina,2/14/2023,12/27/2025,$4116132.08,82.7,utilization,2,4,15,9,0
+472,"Senger, Reynolds and Daugherty",Philippines,2/19/2021,4/25/2026,$4994437.82,96.4,Full Chain,1,7,-1,1.3,1
+473,West Group,Brazil,10/18/2022,4/23/2024,$54287849.67,80.9,capture,3,2,6,8.6,0
+474,Murazik-Gusikowski,China,1/9/2021,8/9/2026,$80948149.65,53.3,capture,6,4,-2,3.2,0
+475,Ankunding-Jenkins,Sweden,7/25/2023,3/9/2024,$67531153.43,62.7,utilization,1,6,13,3.6,0
+476,Carter LLC,Mexico,1/24/2020,7/12/2024,$66438247.92,72.9,capture,3,6,24,2.9,0
+477,Haley Group,Japan,2/25/2020,11/9/2024,$52569877.82,69.4,T&S,8,6,24,3.4,1
+478,"Predovic, Baumbach and Morar",Pakistan,10/29/2021,11/21/2023,$42637587.87,91.7,Full Chain,6,6,12,6.9,0
+479,Mosciski Group,France,11/14/2022,10/12/2025,$33882647.54,67.1,capture,8,4,-3,2.1,0
+480,Hodkiewicz-Haley,Thailand,5/23/2021,5/1/2026,$7934334.98,70.2,capture,8,8,6,4.3,0
+481,"Klocko, Gutmann and Crist",China,11/12/2021,5/13/2024,$30182868.53,77.1,utilization,9,8,-10,9.4,0
+482,Swaniawski-Ankunding,United States,12/31/2019,2/1/2026,$52380201.15,68.7,Full Chain,5,6,3,2.3,1
+483,Hansen Inc,Czech Republic,2/7/2021,6/6/2025,$74891249.68,83.2,Full Chain,7,7,34,7.5,0
+484,"Green, Ziemann and Quigley",China,1/31/2022,1/20/2025,$91007440.74,68.2,utilization,3,5,16,2.3,0
+485,Lindgren LLC,Finland,7/9/2023,10/23/2026,$31195157.01,87.1,T&S,3,7,30,3.3,1
+486,Turcotte-Hilpert,Brazil,10/25/2022,5/2/2025,$56360283.27,96.1,T&S,9,2,28,3.3,0
+487,Pouros Group,Philippines,7/16/2022,2/18/2025,$64083530.10,87.6,Full Chain,1,5,6,1.8,0
+488,"Romaguera, Heathcote and Muller",Brazil,6/11/2021,1/19/2026,$48184837.65,62.9,capture,1,7,12,9,0
+489,"Collier, Sipes and Kuhn",Mexico,10/28/2020,3/16/2025,$31251322.63,79.8,capture,8,8,25,9,0
+490,"Skiles, Schneider and Rutherford",South Africa,8/19/2021,11/12/2025,$22046796.43,57.9,T&S,1,5,2,3.5,1
+491,"Heller, Marks and Kihn",Malaysia,10/11/2020,2/2/2024,$30575554.46,72.9,capture,9,3,10,4.6,0
+492,"Rath, Gottlieb and Feeney",Indonesia,1/14/2020,10/9/2024,$23575943.15,99,utilization,5,3,-9,5,0
+493,"Witting, Dach and Heaney",Vietnam,2/12/2022,6/24/2026,$22773352.83,83.1,T&S,1,4,35,3.9,1
+494,"Murazik, Lakin and Reichel",Russia,4/9/2023,10/11/2024,$75439210.34,97.1,Full Chain,1,7,-2,6.1,0
+495,Lebsack-Barton,Czech Republic,11/7/2019,12/5/2024,$15241233.29,67.1,capture,1,2,0,1.6,1
+496,Douglas LLC,Ukraine,2/7/2023,12/17/2024,$53464409.15,97.8,T&S,3,3,35,3,1
+497,Trantow-Kessler,Sweden,1/31/2023,7/7/2024,$15336234.25,84.4,Full Chain,8,3,24,2.2,1
+498,"Simonis, Dooley and Prosacco",India,6/7/2022,6/24/2026,$14283886.11,88.9,utilization,9,4,26,2.9,0
+499,Wilkinson Group,Portugal,2/11/2021,5/9/2026,$20872745.94,89.5,T&S,2,2,8,8.6,1
+500,Monahan-Bergstrom,Russia,9/6/2022,4/5/2024,$87304028.61,65.7,T&S,2,3,1,1.5,0
+501,"Oberbrunner, Koepp and Lang",Russia,2/5/2023,11/8/2025,$77125377.54,63.5,capture,8,5,35,8.2,0
+502,"Bode, Rippin and Jacobi",Indonesia,7/27/2022,12/20/2023,$65033766.74,76.7,Full Chain,9,5,6,9,0
+503,Leffler LLC,Vietnam,12/16/2020,5/28/2025,$95110054.45,88.9,utilization,6,4,12,2.6,0
+504,Hermann-Bins,Indonesia,8/7/2023,4/18/2026,$84186354.27,65.6,utilization,1,4,12,8,0
+505,"Corwin, Rempel and Koss",Poland,12/2/2022,9/21/2025,$30961689.15,73.4,utilization,4,9,28,6.9,0
+506,Konopelski LLC,Philippines,3/3/2021,10/15/2024,$79970144.95,73.4,capture,9,7,10,6.6,0
+507,Pacocha-Schimmel,El Salvador,5/23/2023,11/22/2025,$16764441.01,92.4,utilization,6,4,17,5.5,0
+508,Harvey Group,Norway,3/16/2022,8/13/2025,$76779491.38,80.4,T&S,1,8,22,9.6,0
+509,"Jacobson, Pfeffer and Ruecker",China,9/20/2022,12/4/2024,$47125216.13,58.8,utilization,6,4,-1,7.4,0
+510,Kling-Lebsack,Philippines,7/26/2022,1/29/2026,$19556842.92,94.6,capture,3,9,13,1.5,0
+511,"Bergstrom, Quitzon and Kunze",Russia,6/5/2021,2/8/2024,$55129088.03,60.1,Full Chain,2,8,30,2.4,0
+512,Corkery-Marquardt,China,12/15/2020,4/6/2025,$42796567.40,78.4,utilization,3,6,20,4.4,0
+513,Bernier-Nienow,China,5/29/2022,10/30/2024,$51127611.21,70.8,capture,8,3,-8,3.1,0
+514,"Heidenreich, D'Amore and Jerde",Yemen,3/17/2023,1/10/2025,$85287188.74,82.5,utilization,3,3,18,1.4,0
+515,Heller Group,Haiti,12/28/2020,1/10/2024,$48998057.11,52.1,Full Chain,5,4,12,2.5,1
+516,Nikolaus Inc,Russia,6/7/2021,12/18/2023,$64044791.23,99.1,utilization,5,8,34,2.6,0
+517,Hoeger Group,Slovenia,11/20/2019,1/6/2025,$93197549.23,90.9,utilization,8,4,-2,6,0
+518,Veum-Roob,Peru,2/8/2020,8/17/2024,$42616414.83,55.7,capture,5,9,-4,6.1,0
+519,Hickle and Sons,Philippines,2/10/2022,4/4/2025,$94614107.47,63.1,T&S,8,8,20,4.8,0
+520,Jerde Inc,France,11/13/2020,1/20/2026,$61314089.04,73.2,T&S,9,3,28,7.5,1
+521,Will-Altenwerth,Ethiopia,9/24/2020,4/11/2026,$94940363.46,54.7,T&S,3,7,-6,7.1,1
+522,Kuphal Group,Russia,3/3/2021,7/7/2024,$3097540.47,80.5,capture,5,2,15,5.7,1
+523,Kuphal LLC,Brazil,4/27/2023,4/28/2024,$31163081.90,99.3,capture,5,6,33,1.6,1
+524,"Shanahan, Wuckert and Gleason",Indonesia,1/14/2023,8/25/2025,$82011849.31,74.6,capture,4,7,1,1.1,0
+525,Williamson LLC,North Korea,12/24/2020,6/3/2026,$69672099.30,66.7,capture,5,7,22,6.7,0
+526,"Reynolds, Turner and Goodwin",Suriname,8/5/2022,2/29/2024,$19092325.88,66.9,capture,3,5,-3,9.1,1
+527,Cormier Inc,Colombia,12/29/2022,6/10/2025,$92646355.07,55.2,T&S,5,8,18,5.7,0
+528,Langworth and Sons,France,11/6/2021,9/21/2025,$60827843.12,85,T&S,6,2,24,2.8,1
+529,"Lesch, Daniel and Huels",Mauritius,8/8/2021,10/19/2024,$11802803.10,66.9,Full Chain,2,7,-1,7.4,1
+530,Kirlin-Ledner,Indonesia,3/3/2021,12/30/2023,$16681493.38,99.9,capture,4,2,31,8.6,0
+531,Swift-Skiles,China,7/18/2022,1/2/2026,$31544726.83,60.9,Full Chain,1,7,2,9,1
+532,"VonRueden, Altenwerth and Trantow",China,7/27/2023,3/25/2025,$94689602.03,64,capture,2,5,-8,4,0
+533,Littel-Watsica,Indonesia,8/20/2023,5/2/2025,$5938081.39,52,utilization,8,2,26,4.1,0
+534,Schoen-Gorczany,France,3/16/2023,3/17/2024,$26854836.52,88.5,T&S,3,2,-7,2.7,1
+535,"Bogisich, Jakubowski and Thompson",Russia,7/3/2021,6/29/2025,$93919430.59,56.9,capture,5,7,34,4.9,0
+536,Ankunding-Ritchie,Egypt,6/29/2022,10/1/2026,$46497511.52,56.1,T&S,9,6,-5,8.3,1
+537,Carter Inc,China,9/25/2021,5/29/2026,$89361783.41,71.4,Full Chain,6,6,11,2.4,1
+538,Halvorson Group,China,5/6/2023,3/12/2025,$88428800.27,73.6,capture,8,5,14,1.5,0
+539,Schaden and Sons,Philippines,1/18/2023,5/31/2025,$43422698.59,73.4,capture,6,5,21,5.6,0
+540,Klein Inc,Luxembourg,8/27/2020,4/22/2026,$82533078.66,69.7,Full Chain,6,4,33,1.3,1
+541,Muller Group,South Africa,1/10/2023,11/15/2025,$46592663.23,83.4,Full Chain,3,9,29,7.1,0
+542,Keeling and Sons,Slovenia,8/21/2023,4/18/2025,$52116034.80,67.5,capture,1,5,19,6.5,0
+543,"Erdman, McGlynn and Auer",Sweden,11/30/2021,9/21/2025,$76643235.78,84.3,capture,4,8,14,8.6,0
+544,Rohan-Klocko,Sweden,5/4/2023,3/9/2024,$33204819.89,58.4,utilization,8,4,-9,9.4,0
+545,Quitzon-Bruen,Indonesia,8/14/2021,6/10/2024,$20322131.57,83.2,Full Chain,4,9,-8,7.1,1
+546,Bins-Renner,Sweden,11/9/2022,1/28/2026,$50343811.37,55.4,Full Chain,9,4,12,1.8,1
+547,Connelly and Sons,Peru,1/18/2021,4/24/2026,$83231348.01,51.7,Full Chain,6,6,11,6.5,0
+548,Weber and Sons,Canada,6/5/2022,6/4/2025,$39957938.67,71,Full Chain,1,7,-5,2.9,1
+549,Schinner-Ullrich,Czech Republic,12/20/2022,4/27/2025,$45109107.76,70.7,Full Chain,9,6,-9,6.6,0
+550,Jacobi Inc,Thailand,11/12/2021,10/25/2024,$78981854.72,76.6,T&S,9,6,-5,2.3,0
+551,Terry-Kling,United States,2/15/2021,4/23/2025,$89994027.20,62.8,T&S,9,4,1,3.6,0
+552,"Kuhn, Stracke and Harber",Brazil,11/10/2021,8/24/2026,$15035935.86,96.5,utilization,6,6,7,3.8,1
+553,Pfannerstill-Schultz,Israel,12/28/2021,5/22/2026,$5265036.03,68.5,capture,8,6,26,1.5,0
+554,"Haag, Emard and Dare",Czech Republic,5/20/2022,6/23/2024,$94142757.39,72.3,T&S,5,9,3,3.8,0
+555,"Cronin, Fadel and McKenzie",Bangladesh,5/21/2020,10/27/2026,$41042645.82,67.3,capture,1,7,17,7.9,0
+556,Armstrong Group,Indonesia,8/15/2022,3/29/2024,$96310249.23,69.9,T&S,8,5,13,10,0
+557,Schmitt-Corwin,Argentina,2/5/2021,1/30/2024,$54733789.24,57.7,T&S,1,9,26,2,0
+558,"Bruen, Gulgowski and Dietrich",Dominican Republic,9/24/2022,3/13/2024,$1171974.59,80.8,capture,2,2,15,3.3,1
+559,Monahan-Parisian,Nigeria,6/2/2022,5/30/2026,$36128941.73,99.6,capture,8,2,21,9,1
+560,Wilkinson-Torp,China,10/27/2020,3/26/2026,$71860844.77,57.9,Full Chain,7,8,31,8.1,0
+561,Bogan Group,Ukraine,1/25/2020,10/26/2025,$31620615.43,60.9,T&S,6,4,0,1.8,1
+562,"Gulgowski, Jenkins and Grant",United States,4/16/2020,9/8/2026,$97748676.98,85,T&S,9,7,23,5.7,0
+563,Hodkiewicz and Sons,Czech Republic,7/27/2020,12/13/2025,$6889421.56,55.6,capture,6,2,24,1.5,1
+564,"Howe, Brekke and Blanda",Canada,1/11/2021,5/3/2025,$20787635.88,62.4,capture,3,4,8,1.8,1
+565,Powlowski Inc,China,6/20/2023,5/5/2024,$78089977.39,63.1,Full Chain,7,5,3,4.5,0
+566,Beahan-Schroeder,Czech Republic,3/1/2021,3/23/2026,$56926427.31,68,Full Chain,1,5,27,3.5,1
+567,Bayer Group,Indonesia,12/11/2022,11/15/2025,$89425185.61,85,capture,4,3,-2,7.3,1
+568,White LLC,Portugal,10/13/2021,6/28/2024,$78612187.65,95.7,utilization,9,5,11,1.1,0
+569,Altenwerth LLC,Russia,6/22/2020,5/9/2026,$24553277.70,51.4,utilization,1,2,8,4.3,1
+570,Kerluke-Kiehn,Japan,1/21/2020,3/18/2024,$99812512.76,78.1,utilization,6,5,15,8.5,0
+571,Langworth-Waters,Tanzania,7/1/2023,6/15/2026,$66500756.01,61,T&S,8,9,0,4.6,0
+572,Hackett and Sons,Philippines,6/14/2022,2/6/2025,$16025828.23,70.3,T&S,2,4,3,5.3,1
+573,"Senger, Cronin and Franecki",China,7/29/2023,9/17/2025,$64727233.85,75.2,Full Chain,3,2,33,7.7,0
+574,"Altenwerth, Walsh and Torphy",Indonesia,9/9/2023,7/15/2025,$29599221.29,63.9,capture,5,6,-3,1.2,0
+575,"Pagac, Runte and Braun",Indonesia,9/8/2020,11/18/2023,$1509249.10,69.6,T&S,4,5,31,1.6,1
+576,Wuckert Group,China,10/20/2022,12/5/2025,$81682373.81,75.4,capture,1,3,34,7.9,0
+577,"VonRueden, O'Conner and Zboncak",Indonesia,4/12/2020,1/28/2026,$6492064.33,55.7,Full Chain,8,5,29,9.7,1
+578,Nikolaus-Welch,China,1/16/2021,3/27/2026,$59828387.48,97,Full Chain,7,4,23,5,1
+579,Wuckert and Sons,China,6/22/2020,4/16/2024,$49415436.06,69.9,capture,7,6,2,3.7,0
+580,Mayer-Rodriguez,Czech Republic,2/27/2023,6/13/2025,$53862307.55,70.7,utilization,1,6,0,8.7,0
+581,Nolan-Casper,Russia,2/5/2022,3/1/2025,$61547551.52,77.6,Full Chain,9,9,12,5.3,1
+582,Labadie and Sons,Indonesia,4/19/2023,9/8/2025,$99577853.79,54.9,Full Chain,7,6,11,3.6,0
+583,Dickinson Group,France,11/23/2022,5/20/2024,$24027893.75,70,Full Chain,2,6,11,8.4,0
+584,"Hintz, Borer and Heller",Philippines,12/18/2021,5/30/2026,$81968718.15,64.9,utilization,5,9,1,1.2,0
+585,Brakus-Roberts,Norway,10/15/2020,9/6/2026,$91704312.67,84.1,utilization,8,5,19,9.4,0
+586,"Dickens, Wunsch and Quitzon",Vietnam,5/5/2020,6/8/2025,$9275425.40,98.2,Full Chain,5,8,24,4.1,1
+587,"Mayert, Bailey and Bruen",Czech Republic,1/4/2022,9/29/2025,$30663126.09,81.3,utilization,4,4,22,8.1,0
+588,Stroman LLC,Philippines,10/3/2022,5/14/2024,$80226316.59,72.5,utilization,2,3,12,9.1,0
+589,Gottlieb-Hermann,China,11/27/2020,12/31/2023,$99414864.59,72.9,T&S,8,5,-8,3.9,0
+590,"Hessel, Keebler and Roberts",Indonesia,7/24/2023,7/13/2024,$93130378.85,88.1,utilization,6,9,-2,5.9,0
+591,Renner-Schaefer,Japan,2/19/2023,9/15/2024,$44987256.41,75.9,capture,6,7,17,5.4,0
+592,"Jones, Lindgren and Will",Poland,10/30/2022,2/27/2024,$36319872.52,53.5,capture,1,6,35,5.8,0
+593,"Rosenbaum, Herzog and Marks",France,11/10/2021,9/20/2026,$6414146.06,61.3,T&S,1,5,2,6.8,1
+594,"Jaskolski, Quitzon and Friesen",Ukraine,5/17/2023,5/16/2026,$80827807.18,91.6,capture,4,8,11,3.9,0
+595,Stroman Inc,Iceland,7/28/2022,6/13/2026,$73690195.46,51,T&S,8,2,27,3.2,0
+596,Bednar Inc,Brazil,7/6/2021,9/15/2024,$50554148.17,92.7,capture,3,4,29,7.8,0
+597,Kerluke-Nicolas,United States,2/28/2021,12/28/2023,$79874812.43,53.9,T&S,7,7,7,7.3,0
+598,Prohaska LLC,Macedonia,3/19/2020,11/20/2023,$75167520.61,78.7,Full Chain,8,4,16,3.6,1
+599,"Will, Little and Dach",Portugal,11/15/2020,12/20/2024,$93859420.86,83.4,capture,2,7,2,7.2,0
+600,Heaney-Huels,Macedonia,7/2/2022,10/18/2025,$98185334.66,93.9,capture,8,6,6,8.9,0
+601,"Effertz, Conroy and Brown",China,10/24/2020,11/23/2023,$16334128.06,99.1,utilization,8,5,12,2.2,1
+602,Witting Inc,China,3/10/2023,2/16/2026,$34804252.88,63.8,Full Chain,5,2,10,8,1
+603,Abshire and Sons,Tajikistan,11/30/2021,11/12/2024,$42739070.83,93.6,Full Chain,7,3,15,6.6,1
+604,"Halvorson, Block and Schaden",Kyrgyzstan,5/7/2022,2/12/2025,$23787476.98,96,Full Chain,6,9,13,6.2,0
+605,Kovacek-Pollich,China,1/27/2021,4/1/2026,$68383259.72,71.4,capture,2,3,29,1.9,0
+606,Abbott LLC,China,4/1/2021,4/28/2024,$50847215.12,70.6,Full Chain,3,5,-3,3.1,1
+607,DuBuque-Senger,Indonesia,2/11/2020,3/4/2025,$17101315.75,87.5,Full Chain,9,9,16,9.7,0
+608,"Berge, Waters and Mertz",Portugal,2/19/2023,11/7/2023,$1030491.66,67.8,Full Chain,6,9,-4,7.5,0
+609,Bahringer-White,Indonesia,8/30/2020,11/11/2025,$72444371.05,78.5,T&S,1,8,32,9.4,0
+610,Ryan Inc,Poland,7/18/2022,10/18/2024,$19064496.92,69.8,Full Chain,2,5,35,7.4,0
+611,McClure Inc,China,5/28/2020,9/16/2025,$13055721.69,93.4,T&S,8,5,17,8.9,0
+612,Howe Group,Brazil,5/25/2021,2/14/2025,$63605387.96,92.4,capture,7,5,-3,1.2,0
+613,"Klocko, Zboncak and Goyette",Brazil,1/2/2020,2/6/2024,$46868829.95,70.6,Full Chain,1,4,3,6.6,1
+614,"Nolan, Fahey and Beatty",Indonesia,1/24/2022,4/26/2024,$12831822.55,87.1,Full Chain,1,2,30,6,1
+615,Greenholt-Satterfield,Belarus,11/30/2021,3/18/2025,$27948357.68,90.7,capture,7,3,10,3.1,1
+616,Watsica-Altenwerth,Sweden,6/26/2022,11/22/2023,$12033916.39,95.5,T&S,4,4,15,5.1,1
+617,Armstrong-Bradtke,China,11/14/2022,3/28/2024,$78702684.45,57.7,utilization,1,9,-8,5.3,0
+618,Kuvalis-Flatley,Brazil,4/28/2022,1/20/2024,$54350295.65,81.3,T&S,8,2,-3,3.3,0
+619,"Schmidt, Jones and Towne",Norway,5/13/2021,4/27/2026,$24346008.13,57.2,Full Chain,3,5,-1,8.9,1
+620,Braun Inc,Taiwan,7/6/2021,12/5/2025,$69109304.72,58.2,utilization,4,7,29,8.5,0
+621,"Price, Cremin and Raynor",China,9/22/2022,4/5/2025,$20362000.90,98,Full Chain,7,3,34,7.2,1
+622,Sauer-Blanda,China,9/29/2020,8/21/2025,$68183962.60,58.1,capture,1,8,26,9.7,0
+623,Koss Inc,Jordan,8/9/2023,2/20/2024,$86006139.66,62.3,T&S,6,9,-1,1.7,0
+624,Halvorson-Ullrich,Russia,11/16/2019,11/30/2025,$43895312.84,89.5,T&S,6,7,4,7.2,1
+625,Green-Walsh,China,8/22/2021,9/25/2025,$18468825.23,97.9,capture,7,8,7,8.7,0
+626,Konopelski LLC,China,10/11/2020,12/10/2025,$49903800.07,81.8,Full Chain,2,6,18,4.8,1
+627,"Funk, Yost and Auer",China,4/4/2022,12/20/2023,$84298717.51,60.8,T&S,9,4,6,5.8,0
+628,Cassin Group,Turkey,8/17/2022,7/7/2026,$36501646.94,77.6,T&S,5,4,15,8.9,1
+629,Senger LLC,Ukraine,6/21/2021,3/24/2026,$53462329.25,54.2,T&S,9,8,5,9.7,1
+630,Borer Inc,Afghanistan,7/7/2022,9/19/2025,$40120829.69,92.2,utilization,4,9,1,2.7,0
+631,"Lubowitz, Quitzon and Dooley",Spain,11/25/2019,9/12/2026,$82901734.63,54.3,utilization,7,3,15,2.3,0
+632,Smith LLC,Colombia,2/22/2022,3/16/2025,$15438474.21,79.5,Full Chain,5,8,31,1.3,0
+633,Lowe and Sons,Indonesia,12/2/2021,5/14/2026,$95005760.17,89.4,utilization,6,5,-3,6.5,0
+634,"Connelly, Lind and Feest",Sweden,2/9/2021,5/3/2026,$37080560.11,91,T&S,1,3,27,7.7,1
+635,"Kemmer, Luettgen and Feeney",China,9/23/2021,11/1/2025,$98496198.21,91,Full Chain,6,2,15,7.3,1
+636,Sawayn LLC,Israel,4/16/2023,7/28/2025,$4153605.67,86.7,utilization,3,5,32,8.2,0
+637,"Schimmel, Haley and Koelpin",Azerbaijan,8/24/2020,2/11/2025,$96309326.25,92.3,T&S,7,5,3,10,1
+638,Lehner-Kub,Swaziland,3/24/2021,8/30/2026,$76409148.34,80.3,capture,4,3,-9,7.3,0
+639,Kemmer and Sons,Bulgaria,9/24/2021,5/10/2024,$98665750.48,88.4,Full Chain,4,3,9,1.8,0
+640,Pfannerstill-Wolf,Indonesia,10/21/2022,5/24/2026,$94171136.11,69.1,Full Chain,4,5,-3,2.9,1
+641,Predovic Inc,Indonesia,11/13/2022,1/16/2025,$79048693.64,59.8,capture,6,4,6,4.9,0
+642,"Bode, Kunze and Lindgren",Latvia,4/16/2021,11/24/2023,$20295676.99,93.9,capture,2,3,3,4,1
+643,"Will, Rolfson and Kuvalis",China,9/19/2022,12/8/2025,$96239570.18,79.3,utilization,2,3,35,5.3,0
+644,"Mante, Ledner and Dietrich",Myanmar,8/28/2022,12/19/2025,$45085731.95,74.8,utilization,5,8,15,3.8,0
+645,Lowe Group,Colombia,12/9/2019,10/8/2025,$5400023.61,57.3,capture,7,6,32,7.3,0
+646,"Rippin, Kautzer and Kutch",Indonesia,8/22/2021,8/1/2026,$38386057.70,51.9,T&S,9,2,20,5.1,1
+647,Adams-Hand,Philippines,6/1/2020,3/27/2024,$2291025.94,81.1,T&S,2,8,34,8.6,1
+648,"Hartmann, Raynor and Padberg",Portugal,6/5/2020,6/3/2025,$53316179.02,68.8,utilization,1,4,0,5.9,1
+649,Walsh LLC,Indonesia,4/8/2022,12/27/2023,$36013374.57,68.6,capture,4,6,20,7.4,0
+650,Cronin-Becker,Canada,4/21/2020,11/27/2025,$25426349.80,97,Full Chain,1,5,16,4.9,1
+651,Rempel-Tromp,China,10/11/2021,8/19/2024,$74414481.84,98.9,capture,8,8,10,3.4,0
+652,"Harris, Shanahan and Koelpin",China,12/31/2022,5/6/2026,$66801171.07,54.2,utilization,9,4,7,4.7,0
+653,Thiel and Sons,Ireland,5/20/2020,10/9/2025,$38911699.19,79.3,capture,7,6,32,1.4,1
+654,"Boyer, Satterfield and Langosh",China,7/1/2021,10/4/2025,$27996738.22,71.6,utilization,3,7,26,5.6,0
+655,"Shields, Pagac and Bogan",Dominican Republic,6/17/2020,9/24/2025,$85122114.72,50.8,utilization,9,6,7,5.1,0
+656,Huels Group,Mexico,6/16/2021,5/30/2024,$87320812.99,94.9,capture,8,9,23,9.8,0
+657,Wuckert Group,Peru,5/1/2020,8/31/2026,$76189498.05,89.5,utilization,4,2,0,2.9,0
+658,Fadel-Littel,Philippines,10/25/2020,12/6/2023,$76636757.70,75.7,Full Chain,1,7,5,8.2,1
+659,Bogan Group,Philippines,9/7/2021,7/4/2024,$29891108.69,72.4,capture,1,9,0,6.7,0
+660,Hane and Sons,China,11/16/2019,3/2/2026,$85805274.31,57.2,capture,7,6,19,8.7,0
+661,Gulgowski-Howe,Brazil,2/21/2021,7/13/2026,$73029283.30,66.2,utilization,5,2,13,4.4,0
+662,Ullrich LLC,China,1/19/2022,4/6/2026,$88350885.07,54.4,utilization,7,9,-5,2.2,0
+663,Hauck Inc,Philippines,9/21/2022,10/24/2025,$27667889.43,94,Full Chain,7,3,29,4.7,1
+664,Hyatt Inc,Philippines,9/29/2021,2/24/2025,$79415679.15,90.5,capture,2,3,8,9.5,0
+665,Gleichner-Wiza,Sweden,9/24/2022,5/12/2026,$81528548.98,77.2,capture,8,2,7,2.8,0
+666,Kub LLC,South Sudan,12/23/2019,5/21/2025,$49876748.72,88.1,utilization,5,2,14,8.6,0
+667,"Bogisich, Casper and Dare",Poland,12/18/2022,10/28/2023,$98434105.32,62.9,T&S,6,4,18,1.9,0
+668,Hand and Sons,Dominican Republic,1/19/2022,4/6/2026,$73659907.97,84,T&S,4,2,10,8.7,1
+669,"Leannon, Sanford and Herman",Albania,9/4/2021,9/17/2024,$30958066.96,71.8,T&S,7,8,7,5,1
+670,Cronin-Johnston,Indonesia,10/9/2020,8/5/2024,$30885846.79,54.9,utilization,4,5,10,3,0
+671,Koch-Bogan,Canada,7/8/2022,6/23/2025,$95091476.30,63.5,T&S,6,9,20,1.3,0
+672,"Fadel, Will and Frami",China,8/20/2022,3/2/2024,$16015810.96,80.1,utilization,6,3,3,1.3,1
+673,"Haag, Borer and Auer",Philippines,12/6/2021,6/11/2026,$80903758.06,56.7,utilization,9,9,28,9.8,0
+674,Walker and Sons,Indonesia,12/21/2022,7/20/2026,$51416459.99,93.7,Full Chain,4,6,33,9.1,0
+675,"Cummings, Rogahn and Zboncak",Brazil,4/26/2023,9/24/2025,$96309003.47,94.2,capture,2,8,18,2.8,0
+676,Halvorson-Kris,Sweden,9/13/2023,4/16/2026,$17941210.74,83.6,Full Chain,8,8,2,8.2,0
+677,Gulgowski Group,Mexico,5/1/2022,1/5/2026,$76926160.48,54,utilization,7,5,-4,4,0
+678,Schaden LLC,Bosnia and Herzegovina,11/10/2021,4/18/2024,$28536391.42,54,utilization,6,8,17,3.7,0
+679,"Kessler, Fritsch and Langworth",Trinidad and Tobago,2/3/2021,9/22/2024,$19265703.25,71.8,T&S,5,2,15,1.9,1
+680,Zemlak-Gibson,Netherlands,11/15/2020,10/21/2025,$86277978.06,89.3,Full Chain,4,4,13,3.5,1
+681,Mueller LLC,Czech Republic,9/2/2022,1/16/2026,$57844475.13,91.1,capture,6,9,12,4.8,0
+682,Buckridge and Sons,United States,9/24/2021,1/18/2026,$71340280.32,55.7,utilization,6,6,-8,7.6,0
+683,Runte-Haag,Morocco,3/29/2020,4/5/2024,$36627039.73,61.1,capture,2,8,6,9,0
+684,"Lang, Reynolds and Satterfield",Brazil,3/7/2023,9/17/2025,$69784420.13,64.4,Full Chain,9,6,32,5.7,0
+685,Schmeler LLC,Seychelles,1/18/2020,7/14/2025,$30038046.86,98.7,Full Chain,4,2,6,5.6,1
+686,"Kunze, Hermann and Larkin",Indonesia,7/4/2020,8/3/2026,$50160204.60,85.3,Full Chain,7,4,-3,3.2,1
+687,"Lebsack, Murphy and Luettgen",Italy,8/21/2023,12/29/2023,$59568309.78,84.1,utilization,2,6,-9,3.6,0
+688,Hayes Group,Russia,4/8/2023,12/3/2024,$78018408.56,71.4,T&S,9,8,15,9.4,0
+689,Ratke Group,Philippines,10/4/2021,10/15/2024,$50108415.74,78.1,capture,7,6,-1,5.4,0
+690,Rempel-Welch,China,3/27/2023,11/11/2025,$82335780.18,80.7,T&S,2,3,21,9.1,0
+691,Hudson-Moen,Marshall Islands,8/20/2021,12/18/2023,$65625843.78,75.5,utilization,3,2,32,5.6,0
+692,Von Group,Poland,7/31/2020,2/2/2024,$10043876.55,88.5,T&S,4,6,-3,4.1,1
+693,"McLaughlin, D'Amore and Bode",Russia,11/6/2020,7/26/2025,$22758419.62,73.4,utilization,1,9,-8,8.3,0
+694,Olson LLC,Kyrgyzstan,11/26/2020,12/26/2025,$66780873.95,81,Full Chain,5,4,18,8.3,1
+695,O'Connell-Johnson,Russia,11/27/2021,5/13/2024,$67885715.25,57.6,capture,1,3,-8,4,0
+696,Morissette LLC,Brazil,8/19/2021,6/21/2025,$72474066.04,70.1,T&S,8,9,35,5.2,0
+697,Legros-Feil,Philippines,10/3/2021,9/7/2024,$8659379.81,86,T&S,3,8,8,3.8,0
+698,Quigley-Marks,Indonesia,4/24/2021,5/25/2026,$99494074.76,96.3,Full Chain,7,9,-4,4.6,1
+699,"Emard, Jones and Satterfield",Burundi,8/22/2023,5/7/2024,$86741374.25,76.6,capture,4,3,28,2.7,0
+700,Runolfsdottir LLC,Portugal,12/1/2022,7/28/2025,$77047501.22,55.4,utilization,9,6,-3,9,0
+701,"Carter, Miller and Barton",Ukraine,2/4/2022,12/31/2025,$26665233.47,68,capture,8,6,29,7.2,0
+702,Hansen and Sons,China,2/23/2021,1/22/2025,$6780087.19,63.2,T&S,2,3,18,6.8,1
+703,"Metz, O'Hara and Luettgen",Pakistan,5/18/2022,10/29/2024,$15667033.28,55.6,T&S,9,3,13,2.5,0
+704,Schmeler-Kozey,Czech Republic,2/21/2021,5/25/2024,$8522608.69,87.2,T&S,3,3,-3,1.4,1
+705,"Blick, Spencer and Kirlin",France,1/5/2020,12/10/2024,$1268872.73,66.8,utilization,1,8,11,5.4,0
+706,Stark LLC,Philippines,1/26/2023,10/16/2025,$67565775.81,94,utilization,6,3,34,2.7,1
+707,Nicolas-Will,Brazil,9/8/2023,9/8/2025,$55710297.06,99.7,Full Chain,2,3,13,8.3,1
+708,Schulist LLC,Malaysia,10/27/2020,9/23/2025,$44699881.85,69.9,utilization,6,8,-7,5.8,0
+709,Johnson LLC,Brazil,12/26/2021,11/18/2023,$29300783.55,79.6,T&S,4,8,13,4.1,0
+710,"Herman, Hegmann and Ondricka",Portugal,10/23/2021,12/2/2024,$1021491.36,81.5,T&S,8,9,-9,9.3,0
+711,Bartell-Zulauf,Poland,3/27/2022,1/17/2024,$99295640.69,57.6,T&S,9,2,18,8.8,0
+712,Farrell Group,Belarus,5/1/2020,12/2/2023,$30050591.48,84,capture,9,8,13,7.6,0
+713,"Gottlieb, West and Auer",China,9/8/2021,8/28/2025,$81245008.76,50.1,T&S,4,5,9,6.1,1
+714,"Baumbach, Goodwin and Walsh",Indonesia,1/31/2022,2/23/2024,$17345540.02,71.1,utilization,3,8,7,5.8,0
+715,Haag-Wiegand,Guatemala,10/29/2019,11/9/2023,$29087656.14,60.2,Full Chain,1,3,16,9.3,1
+716,Ankunding-Walsh,Sri Lanka,7/22/2023,5/9/2026,$83371811.66,65,utilization,3,6,-4,6.7,0
+717,Jakubowski-Hammes,Egypt,2/16/2023,12/21/2025,$59361210.31,86.4,capture,5,5,6,5.6,0
+718,Koepp Group,Indonesia,5/28/2022,1/4/2025,$27320816.07,92.7,Full Chain,1,9,11,6.3,1
+719,Kihn Inc,Azerbaijan,6/16/2023,1/16/2024,$16074693.38,93.4,capture,3,4,-10,2.1,1
+720,"Jaskolski, Leffler and DuBuque",France,8/6/2020,1/18/2026,$76344527.80,70.9,Full Chain,8,3,23,6.2,1
+721,Robel and Sons,China,12/15/2021,12/29/2024,$80162910.87,73.6,capture,8,9,16,4.1,0
+722,McCullough Inc,Nigeria,4/14/2020,3/20/2024,$40893762.34,78.4,utilization,5,2,4,3.2,1
+723,Brekke-Marvin,Sweden,5/30/2023,10/22/2026,$58485537.66,75,utilization,5,6,9,9.7,0
+724,Schamberger and Sons,Indonesia,12/16/2020,2/17/2025,$23754252.78,91.2,capture,7,4,18,3,1
+725,"Wilkinson, Schumm and Reinger",Bolivia,10/8/2020,5/9/2025,$33277318.54,66.6,T&S,9,4,16,1.4,1
+726,"Kreiger, Feeney and Mitchell",Canada,5/6/2022,1/23/2026,$36441408.08,97.7,T&S,7,6,26,2.7,1
+727,"Raynor, Hayes and Mohr",Portugal,10/8/2022,1/8/2026,$53314360.74,75.4,utilization,1,2,15,9,0
+728,Pfannerstill-Will,Australia,6/3/2020,6/11/2025,$79091407.02,97.1,Full Chain,1,6,18,6,1
+729,"Barton, Buckridge and Wiza",Poland,11/8/2021,1/10/2024,$58835480.49,73.7,T&S,7,7,-4,1.9,0
+730,"Kautzer, Turcotte and Rosenbaum",South Africa,9/24/2020,4/30/2026,$7664268.20,92.3,capture,2,3,35,7.9,1
+731,Little Inc,Brazil,12/30/2020,2/18/2024,$28791010.14,99,T&S,1,2,15,8.6,1
+732,Moore-Lueilwitz,Poland,6/22/2020,7/19/2024,$48956320.70,52.7,T&S,2,6,21,9.5,1
+733,Hoeger-Barton,Russia,5/13/2020,11/18/2024,$70838514.18,83.7,Full Chain,3,2,0,7.5,1
+734,"Toy, Friesen and Muller",Philippines,10/27/2022,12/15/2024,$71240226.08,97.2,Full Chain,7,2,20,3.3,0
+735,"Kuphal, Price and Beier",Hungary,4/30/2022,10/27/2025,$76087695.83,74.4,T&S,3,2,-10,4.4,1
+736,Anderson LLC,Ukraine,8/5/2020,9/7/2026,$64324123.21,71.9,Full Chain,7,2,-9,9.3,1
+737,Erdman-Schamberger,Azerbaijan,10/3/2021,12/23/2024,$96782209.35,93.3,capture,8,2,34,3.1,0
+738,Huel Group,Malaysia,9/14/2021,1/1/2025,$41773593.76,69.9,T&S,5,5,11,8.8,1
+739,Grant-Goodwin,France,4/11/2020,1/12/2024,$49930865.96,50.9,Full Chain,3,4,-10,2.9,1
+740,"Cremin, Klein and Yundt",Indonesia,3/29/2022,3/7/2025,$38230093.42,83.7,T&S,4,9,27,4.4,0
+741,Wiza LLC,China,5/26/2020,4/15/2025,$90281970.73,55.1,T&S,2,8,25,9.2,0
+742,DuBuque-Powlowski,Portugal,2/26/2023,2/3/2025,$82183304.54,83.7,T&S,8,3,-10,7.5,1
+743,Denesik-Harber,China,2/16/2022,3/19/2024,$54081650.22,89.4,utilization,9,9,31,4.8,0
+744,Hayes and Sons,Russia,7/28/2022,3/18/2026,$15914778.79,66.2,utilization,1,6,16,1.4,0
+745,Cassin and Sons,Bulgaria,2/1/2023,10/16/2026,$47963955.29,53.1,Full Chain,5,4,-2,3.3,1
+746,"Harber, Kuhlman and Pouros",France,2/16/2022,12/1/2024,$19317042.13,76.2,Full Chain,5,3,2,6.8,1
+747,Schneider Inc,Indonesia,2/1/2022,6/22/2024,$47836365.60,75.2,utilization,7,2,24,4,0
+748,Bauch-Bruen,Greece,6/9/2021,1/20/2026,$23533531.06,97.2,T&S,8,6,24,6.3,0
+749,Thiel-Wyman,China,6/7/2021,11/19/2024,$41919201.00,79.7,Full Chain,5,4,26,4.7,1
+750,Yundt-Howe,China,7/7/2023,5/13/2024,$81293138.54,86.4,utilization,1,4,18,5.4,0
+751,"Bechtelar, Auer and Daugherty",United States,11/16/2019,10/10/2025,$91601168.07,58.3,T&S,7,4,-3,8.4,1
+752,Baumbach Group,Indonesia,5/16/2020,8/1/2026,$75519590.73,89.9,Full Chain,4,3,4,4,1
+753,Ferry-Senger,Indonesia,12/28/2019,4/8/2025,$78375521.31,94.8,utilization,7,3,-10,8.4,0
+754,"Kemmer, Renner and Sanford",United States,3/31/2022,1/6/2026,$69741557.62,59.9,T&S,5,8,27,2.8,0
+755,"Waters, Schinner and Feil",Argentina,9/3/2020,1/11/2026,$69780270.99,55.3,Full Chain,2,8,17,2.4,1
+756,Kuhn LLC,Mozambique,5/5/2020,8/31/2026,$21935672.51,84.3,Full Chain,2,9,13,6.8,1
+757,Hermann-Stokes,Vietnam,10/5/2022,12/29/2024,$69245379.12,58.9,T&S,6,3,27,8.7,0
+758,Kuhlman-Bauch,China,3/14/2023,12/11/2023,$4555248.22,60.7,Full Chain,9,3,24,2.4,0
+759,"Murazik, Frami and Collins",Venezuela,12/1/2019,10/14/2026,$85219354.11,71.7,utilization,7,8,28,4.3,0
+760,Rohan Inc,Senegal,5/7/2021,4/1/2025,$35301110.57,62.5,T&S,2,3,11,2.3,1
+761,"Roob, Bosco and Hermann",Portugal,4/19/2021,11/21/2025,$33096034.71,68,T&S,2,8,4,5.8,1
+762,"Thiel, McKenzie and Jones",Czech Republic,11/22/2021,10/13/2026,$5448781.86,95,T&S,4,8,21,5.6,1
+763,Bauch Inc,China,8/11/2023,4/21/2026,$50677500.72,63.8,capture,6,5,27,4.3,0
+764,Kuhlman Inc,Palestinian Territory,4/29/2023,8/16/2025,$29232442.79,54.5,T&S,2,4,-5,7.9,1
+765,Olson-Weber,Poland,8/8/2022,7/8/2024,$38195299.99,51.5,utilization,6,2,-10,4.5,0
+766,Dooley-Ankunding,Malta,10/6/2020,9/19/2024,$96999024.99,75.1,capture,3,5,3,6.8,0
+767,Hyatt LLC,China,3/31/2020,8/18/2025,$39419824.71,71.8,capture,6,4,-2,4.8,1
+768,Price-Grady,French Polynesia,11/28/2019,10/5/2026,$88827685.78,69.2,capture,2,2,27,2.9,0
+769,Daugherty LLC,Norway,10/29/2020,10/26/2024,$58086165.66,70,T&S,9,7,15,1.9,1
+770,Wehner Inc,Poland,1/11/2020,2/4/2024,$62894561.94,63.6,T&S,8,7,25,8.7,0
+771,"Wehner, Mayert and Welch",Indonesia,8/29/2020,5/6/2025,$48862829.72,86.9,T&S,9,5,2,3.7,1
+772,Grant and Sons,Tunisia,6/28/2020,6/4/2025,$53618037.30,95.7,utilization,4,3,-10,9.6,0
+773,Beer Inc,Malaysia,10/5/2021,3/29/2024,$41339133.72,91.5,T&S,5,8,29,8,0
+774,Weimann-Dibbert,China,8/19/2020,8/1/2024,$10695985.93,74,utilization,3,4,17,10,0
+775,"Stanton, Goldner and Tremblay",Kosovo,8/24/2021,10/21/2025,$38178596.58,85.5,Full Chain,8,3,3,3.3,1
+776,"Lakin, Okuneva and Doyle",Tanzania,5/13/2022,5/20/2026,$38854704.56,71,Full Chain,6,4,-3,1.4,1
+777,Stroman Inc,South Africa,8/21/2021,5/15/2026,$48229959.21,51.7,capture,4,9,35,9.4,0
+778,White-Boehm,Venezuela,10/15/2021,6/25/2025,$40097808.68,73.5,T&S,1,5,7,7.9,1
+779,Kuhlman-Osinski,Indonesia,3/28/2022,10/1/2026,$70754454.92,79.8,utilization,1,9,9,2.8,0
+780,Pacocha-Jenkins,China,1/25/2021,6/21/2024,$61230266.37,97.2,Full Chain,5,3,28,7.7,1
+781,"Mayer, Franecki and Dach",Vietnam,6/22/2020,9/22/2025,$39570876.40,80,capture,7,4,29,7.7,1
+782,Haag-Spinka,China,2/6/2021,10/26/2024,$98266302.69,69.3,utilization,7,9,28,1.9,0
+783,"Casper, Hackett and Lindgren",Indonesia,5/13/2020,5/3/2025,$88891718.02,62.3,T&S,6,2,32,7,0
+784,"Considine, Friesen and Ruecker",Philippines,4/13/2023,9/17/2025,$87900058.41,91.1,capture,9,8,-3,6.4,0
+785,Abshire and Sons,Russia,11/25/2021,12/12/2024,$27671001.22,54.6,capture,2,5,-8,2.4,0
+786,"Klocko, Conroy and Ankunding",Sweden,12/19/2022,1/9/2024,$74673860.02,53,Full Chain,2,6,35,6.9,0
+787,Bernhard Group,China,9/2/2023,11/28/2023,$77773787.62,66.1,T&S,5,8,16,5,0
+788,Bogan-Franecki,Madagascar,3/30/2022,12/23/2024,$15966628.42,80.4,Full Chain,6,5,-1,3.7,1
+789,"Nienow, Prosacco and Weissnat",Malaysia,10/7/2020,11/12/2024,$31284433.07,96,T&S,2,7,-7,8.2,1
+790,Beatty Group,China,12/2/2021,7/15/2025,$29299121.59,99.6,capture,5,6,19,7.1,0
+791,Sipes-Bergnaum,China,12/26/2022,6/9/2026,$96860472.40,87.2,capture,8,2,22,6.6,0
+792,Keebler and Sons,Japan,12/6/2021,7/23/2026,$73063557.97,61.2,utilization,2,3,3,1,1
+793,"Langworth, Quitzon and Hane",Indonesia,2/27/2022,4/3/2026,$76209111.22,66.8,utilization,7,5,25,7.6,0
+794,"Heathcote, Frami and Kuhic",Ukraine,3/25/2020,6/22/2026,$74316623.46,59.9,Full Chain,2,7,-4,9.8,1
+795,"Hayes, Davis and Zemlak",New Zealand,11/2/2020,9/29/2024,$86928622.63,98.9,T&S,5,5,16,9.8,1
+796,"Marks, Satterfield and Gulgowski",United States,3/23/2020,3/17/2025,$21326553.37,69.7,Full Chain,5,2,33,2.8,1
+797,Dicki LLC,Sweden,12/3/2022,2/15/2026,$37144040.61,73.5,capture,9,8,25,9.2,0
+798,Schneider-Stracke,Gambia,1/2/2022,8/8/2025,$60463029.56,65.4,capture,7,9,14,9.7,0
+799,Christiansen-Blanda,Germany,1/6/2022,9/28/2024,$75353645.44,72.9,Full Chain,5,9,-4,4.4,0
+800,"Kling, Reynolds and Bradtke",China,8/6/2020,3/21/2026,$78540253.27,95.8,T&S,5,8,26,9,0
+801,O'Hara Inc,Philippines,1/29/2021,1/30/2025,$96363033.13,99.2,utilization,6,7,12,5.5,0
+802,Boyer-O'Conner,Gabon,12/2/2020,6/13/2024,$91299812.18,75.8,utilization,9,7,21,4.3,0
+803,Heidenreich Inc,Estonia,4/28/2020,6/12/2026,$65809449.21,99.5,capture,8,2,32,4.1,0
+804,McGlynn-Smith,France,2/11/2020,12/5/2024,$85141020.04,99.8,T&S,2,3,3,4.6,1
+805,"Morissette, Hauck and Tillman",China,1/14/2021,12/11/2024,$30915204.99,52.7,capture,4,4,19,3.9,1
+806,Lang-Dibbert,China,3/18/2020,12/11/2025,$86944499.53,66.4,Full Chain,4,2,11,8.5,1
+807,Hills LLC,China,12/30/2022,8/30/2026,$8871965.14,84,T&S,2,5,16,5.1,1
+808,Bins-Legros,France,7/29/2022,2/9/2024,$39698864.70,83.8,capture,5,6,13,2.1,0
+809,"Rowe, Upton and Stroman",Iceland,7/29/2021,4/14/2025,$10707869.53,74.1,T&S,1,3,3,6,1
+810,Parisian-Huels,Colombia,1/27/2021,3/16/2024,$23500204.12,53.1,utilization,6,2,1,3.2,0
+811,Swift and Sons,China,6/15/2021,8/21/2026,$10602505.51,78.3,utilization,3,6,27,9.5,0
+812,"Balistreri, Collier and Gutkowski",Iraq,12/26/2021,8/6/2024,$65159041.07,81,T&S,3,5,3,6.4,1
+813,"Wyman, Keeling and Schaden",Ukraine,3/5/2021,2/9/2025,$48157918.41,83.6,Full Chain,4,2,0,5.7,1
+814,"Murazik, Fritsch and Ratke",Philippines,1/10/2023,5/29/2024,$86231797.31,74.5,utilization,6,8,32,8.1,0
+815,Balistreri and Sons,Afghanistan,11/24/2019,7/27/2024,$27573450.47,51,Full Chain,9,7,-3,9.6,1
+816,"Abshire, Funk and Lubowitz",Albania,3/7/2023,2/19/2024,$92682021.97,99.8,Full Chain,2,4,3,8.7,1
+817,Schmitt LLC,Papua New Guinea,1/16/2023,1/13/2026,$25163133.66,72.6,Full Chain,9,5,34,9.6,1
+818,Okuneva-Littel,Russia,3/10/2023,11/9/2025,$21625535.20,74.3,utilization,1,4,16,6.4,0
+819,"Hills, Breitenberg and Gerlach",China,12/3/2020,5/22/2024,$8304433.83,50,T&S,1,4,7,1.7,1
+820,Weissnat-Wisoky,Palestinian Territory,9/26/2022,9/3/2024,$38941367.65,96.7,Full Chain,6,5,24,8.2,0
+821,McLaughlin LLC,Russia,1/30/2023,9/24/2025,$99132559.79,64.9,capture,8,4,24,6.1,0
+822,"Skiles, Adams and Bailey",Indonesia,6/28/2021,5/8/2025,$27410106.40,58,T&S,7,3,18,9.3,1
+823,Waelchi-Rempel,China,6/7/2021,4/30/2026,$66252924.01,85.8,T&S,5,5,-2,5.8,1
+824,Lueilwitz-Doyle,Indonesia,12/21/2021,8/20/2025,$12489297.13,52,capture,7,2,1,1.8,0
+825,Fisher Group,China,3/4/2021,9/7/2025,$49455783.52,87,capture,3,3,9,5.1,1
+826,Paucek Group,China,1/15/2021,5/1/2025,$87231689.14,99.4,utilization,4,5,12,9.7,0
+827,Cremin-Bechtelar,Morocco,8/17/2022,8/22/2025,$50487685.22,66.2,capture,8,3,-5,6.9,0
+828,Mayert-Harris,China,11/28/2019,10/3/2024,$60960685.27,94.3,utilization,3,6,4,6.6,1
+829,Pfannerstill-Funk,Indonesia,8/21/2023,8/29/2025,$55919902.42,66.7,utilization,1,2,4,9.4,0
+830,Okuneva-Kuvalis,Brazil,11/20/2021,4/27/2026,$43450910.85,51.9,capture,3,4,0,5.4,1
+831,Wyman-Walker,Malawi,11/16/2020,3/28/2024,$62067602.63,96.8,T&S,7,2,6,1.3,0
+832,Larson-Stoltenberg,Nigeria,2/14/2023,4/6/2026,$77129207.74,71.7,T&S,2,8,6,3.2,0
+833,Botsford Inc,Indonesia,8/16/2022,5/7/2024,$94822494.38,56.3,Full Chain,7,7,11,3.1,0
+834,Corkery and Sons,Nicaragua,1/24/2023,5/4/2025,$26085454.58,65.3,capture,7,7,-10,7.7,0
+835,Nolan and Sons,Peru,3/19/2021,1/19/2024,$78943758.18,74.1,Full Chain,2,7,-9,4.3,0
+836,Schulist and Sons,Philippines,6/1/2022,3/29/2026,$10289894.86,84.5,T&S,2,7,28,9.6,1
+837,"Waters, Wyman and Harvey",Indonesia,9/17/2021,1/9/2025,$39323128.15,66,T&S,3,8,20,4.7,0
+838,Davis-Schumm,Russia,2/11/2021,5/2/2026,$37043871.01,61.7,Full Chain,2,3,25,1.2,1
+839,McLaughlin LLC,Morocco,11/17/2021,8/17/2026,$33989569.50,86.8,T&S,2,8,3,9.9,1
+840,"Reilly, Schimmel and VonRueden",Sweden,3/13/2023,4/22/2026,$94431708.48,57.5,capture,5,5,10,5.4,0
+841,Streich-Mills,Colombia,4/12/2020,8/23/2026,$7598071.96,63.5,T&S,1,2,-1,1.8,1
+842,Mayer-Schowalter,China,6/29/2020,4/5/2026,$34804186.58,86.3,Full Chain,1,7,32,4.1,1
+843,Dietrich Inc,Philippines,7/28/2021,6/19/2025,$15430513.02,54.5,Full Chain,7,8,11,7.3,1
+844,"Bergstrom, Kerluke and Pacocha",Bulgaria,3/15/2020,2/28/2024,$27710310.44,81.9,utilization,9,3,21,4.4,0
+845,Little LLC,Japan,5/7/2020,1/16/2025,$8761052.27,89.3,Full Chain,4,9,12,5.8,1
+846,"Heathcote, Weber and Shields",Niger,9/2/2022,4/8/2026,$26731021.98,78.3,T&S,2,4,-2,4.2,1
+847,Carter-Beatty,Brazil,3/18/2021,4/30/2025,$55312702.77,78.3,utilization,9,3,24,3.4,0
+848,Dietrich LLC,Brazil,9/25/2020,5/8/2024,$51877359.61,51.3,T&S,5,4,5,7.6,1
+849,"Kutch, Klocko and Smitham",Argentina,12/20/2021,6/19/2025,$97288773.61,78.4,capture,5,6,-10,2.7,0
+850,"Mante, Bernhard and Pfannerstill",Russia,12/16/2021,6/16/2026,$60727881.37,98.3,capture,7,8,13,9,0
+851,McDermott and Sons,United States,1/2/2023,8/12/2026,$43300588.68,55.4,utilization,9,8,-4,4.3,0
+852,Jaskolski Inc,China,11/27/2020,10/31/2024,$45717995.30,92,capture,5,2,14,5.9,1
+853,"Cassin, Swaniawski and Sauer",China,6/22/2020,8/16/2025,$63016413.10,62.3,Full Chain,3,4,21,4.1,1
+854,"Hagenes, Blanda and Stanton",Argentina,5/4/2023,10/7/2025,$2020473.85,98.4,Full Chain,2,6,34,1.4,1
+855,"Dickens, Flatley and Jacobs",Kazakhstan,6/23/2020,12/4/2023,$33419306.54,75.9,Full Chain,9,4,12,3.2,1
+856,"Sporer, Cremin and Kuhlman",Malaysia,7/19/2022,1/12/2026,$17761669.31,62.1,T&S,6,6,19,9.5,1
+857,O'Conner and Sons,Thailand,12/16/2020,4/3/2024,$20604769.56,54,Full Chain,5,9,5,7.6,1
+858,Kuhic LLC,Armenia,12/14/2019,5/5/2025,$28570998.33,90.1,utilization,3,9,-10,4,0
+859,Lakin-Feeney,Indonesia,12/15/2019,8/9/2025,$28479569.03,82.3,T&S,6,3,26,1.3,1
+860,Ratke-Adams,Uzbekistan,12/16/2019,6/29/2025,$20244167.96,73,T&S,9,3,28,9.2,1
+861,Lindgren-Corkery,Thailand,5/27/2021,5/7/2026,$72830538.20,57.8,Full Chain,6,4,31,9.7,0
+862,Mraz Group,Russia,7/23/2021,1/24/2026,$38910022.83,88.6,utilization,6,2,5,2.8,1
+863,Wisoky-Torp,France,5/27/2021,11/3/2024,$68498550.64,77.2,Full Chain,7,3,22,6.5,1
+864,"Hilll, Rodriguez and Swaniawski",Indonesia,4/6/2022,9/19/2024,$50137950.47,79.5,Full Chain,3,2,1,6.4,1
+865,Kutch-Rodriguez,Saudi Arabia,8/26/2020,11/14/2024,$54833971.38,80.1,T&S,1,4,34,3.1,1
+866,Dach-Kulas,Serbia,2/26/2023,4/27/2025,$92656340.24,62.4,capture,7,2,25,7.4,0
+867,Hoppe-Lueilwitz,Indonesia,11/24/2022,6/12/2025,$90604271.30,95.3,utilization,4,7,-7,5.5,0
+868,"Borer, Crona and Erdman",Norway,10/10/2022,7/12/2026,$38296058.99,96.4,T&S,2,4,5,8.5,1
+869,Hackett-Ruecker,China,5/3/2021,3/4/2024,$38326417.62,75.6,T&S,9,6,33,2.7,1
+870,"O'Hara, Witting and Murphy",Costa Rica,5/14/2022,5/14/2026,$10782256.13,90.2,T&S,5,4,13,3.2,1
+871,"Spinka, Stoltenberg and Sporer",China,7/5/2022,4/18/2026,$20415902.89,91.8,Full Chain,7,2,17,3.3,1
+872,Stanton-Collins,United States,9/13/2021,11/8/2024,$88733612.29,57.5,capture,5,9,20,2.3,0
+873,"Bosco, Heathcote and Turcotte",Indonesia,9/7/2023,7/29/2024,$2138700.47,97.4,T&S,7,8,-3,6.3,0
+874,"Green, Walter and McGlynn",Malaysia,9/5/2021,3/23/2026,$62573167.40,54.6,Full Chain,5,4,5,2.6,1
+875,"Howe, Parisian and Green",Colombia,6/4/2022,6/5/2026,$35059476.89,71,Full Chain,3,3,8,4.9,1
+876,Predovic-Reichert,Nigeria,6/17/2023,3/16/2024,$24778729.95,51,Full Chain,7,2,9,5.8,1
+877,Simonis-Stroman,Malaysia,11/16/2020,10/16/2025,$35392484.25,58.1,capture,4,6,12,2,1
+878,Johnston-King,Serbia,5/7/2022,11/8/2025,$72519253.93,58.4,Full Chain,3,3,3,6.3,1
+879,"Monahan, Upton and Will",China,11/22/2022,5/19/2025,$86411734.48,57.4,utilization,5,4,0,1.7,0
+880,Rohan-O'Hara,Ireland,1/28/2023,7/26/2024,$8116733.14,93.5,Full Chain,6,9,19,4.5,0
+881,Mraz LLC,Ukraine,9/21/2021,5/29/2024,$24913697.55,87.8,T&S,3,5,33,4.6,1
+882,Pfannerstill-Mante,Poland,5/6/2023,6/16/2025,$41900520.30,69.7,Full Chain,6,6,20,3.2,1
+883,Jones and Sons,Morocco,2/21/2020,4/24/2025,$4962804.10,70.2,Full Chain,2,8,11,7.7,1
+884,Bailey LLC,China,8/28/2022,11/25/2024,$59447932.36,67.7,capture,5,2,35,5.1,0
+885,Denesik-Jaskolski,Philippines,3/29/2020,11/25/2024,$20896154.87,51.4,Full Chain,2,4,2,8.3,1
+886,Kuvalis-O'Kon,Philippines,5/25/2023,2/28/2024,$82407011.58,91.7,utilization,4,3,2,6.3,0
+887,Stehr-Boyle,Ireland,11/12/2019,8/28/2025,$74063390.27,78.2,utilization,1,6,29,2.1,0
+888,Haag-Lueilwitz,Ukraine,8/16/2020,3/17/2026,$68167822.56,83.1,utilization,2,6,19,9.6,0
+889,Bode-Jacobson,Poland,11/15/2021,3/19/2025,$9710327.79,93.1,T&S,6,8,25,6.7,0
+890,"Carroll, Lebsack and Hoppe",Canada,9/24/2022,12/14/2023,$88443199.76,69.8,capture,8,8,14,3.8,0
+891,Rutherford-Langosh,China,9/20/2022,8/29/2024,$73485478.18,98.9,utilization,9,2,-3,2.7,0
+892,"Funk, Nader and Bogisich",France,10/16/2020,7/6/2025,$24359024.32,75.5,utilization,7,6,10,5.6,0
+893,Rippin-Langworth,Russia,9/26/2021,7/20/2024,$53374948.73,95.8,T&S,3,6,32,1.8,1
+894,O'Connell LLC,Indonesia,10/25/2022,6/26/2025,$53431843.73,71.8,Full Chain,1,7,15,4.9,0
+895,Kohler-Kirlin,Botswana,12/28/2022,12/26/2023,$41640116.29,52,capture,7,9,21,3.8,0
+896,Orn-Klein,Germany,1/12/2023,12/25/2025,$74520512.57,58.7,utilization,3,5,-10,1.9,0
+897,Beatty and Sons,Indonesia,4/23/2022,2/27/2024,$46800647.61,80.1,utilization,2,9,34,8.2,0
+898,Harber-Goyette,Indonesia,5/17/2020,1/10/2025,$8453138.73,79.6,Full Chain,4,8,21,5.3,1
+899,"Witting, White and Romaguera",China,10/29/2019,12/24/2023,$79808278.32,83.6,T&S,4,2,29,1.7,1
+900,Hyatt-Turner,Indonesia,9/28/2020,2/20/2024,$66940427.91,90.8,T&S,8,5,7,6.3,0
+901,Green-Hoeger,Ghana,9/28/2020,11/15/2023,$81347634.00,92.6,Full Chain,9,7,2,8.2,0
+902,"Doyle, Feest and Tremblay",Nigeria,6/15/2021,1/31/2024,$84817122.55,94,T&S,6,5,15,6,0
+903,Dibbert-Rolfson,Greece,3/27/2020,8/11/2026,$14842156.75,64.1,capture,2,5,16,2.4,1
+904,McLaughlin-Hintz,Colombia,9/29/2022,3/23/2024,$52199103.56,66.8,capture,6,9,13,5.1,0
+905,Sporer-Cole,Germany,12/29/2021,2/1/2024,$19111595.56,54.8,T&S,8,2,28,2.9,0
+906,"Ondricka, Stokes and Bednar",Brazil,10/25/2021,1/22/2024,$41400129.55,89,T&S,4,4,-2,4.5,1
+907,"Harris, Konopelski and Wilderman",Philippines,8/1/2022,5/11/2025,$7360059.80,71.5,T&S,8,6,-4,1.6,0
+908,Steuber-Keebler,Thailand,4/3/2023,7/4/2024,$46779853.91,95.2,utilization,8,7,30,6.4,0
+909,Daniel Inc,Mexico,5/22/2022,1/25/2026,$98098412.12,58.9,utilization,7,2,33,1.8,0
+910,Deckow-Dicki,Canada,7/20/2023,6/7/2024,$85031312.21,84.5,Full Chain,6,2,24,1.9,0
+911,"Dooley, Goyette and Borer",Australia,12/19/2021,3/5/2024,$75341431.75,61.6,Full Chain,5,8,5,5.8,0
+912,"Schaefer, Hintz and Jaskolski",Tanzania,5/21/2021,6/11/2024,$36034809.32,89.5,utilization,6,6,21,2,1
+913,Mante-Quigley,Dominican Republic,2/2/2021,5/31/2025,$43299698.74,87.4,capture,8,9,0,4.6,1
+914,Casper and Sons,Yemen,7/8/2023,6/12/2025,$51767148.29,92.8,capture,9,8,12,6,0
+915,Parisian-Cummings,Greece,4/24/2022,6/22/2026,$28302279.61,82.3,utilization,5,4,18,2.7,1
+916,Skiles-Luettgen,Croatia,11/12/2020,2/7/2026,$37701662.22,86.9,capture,8,4,-9,9.9,0
+917,Lindgren-Bednar,France,12/20/2021,1/30/2024,$2369629.42,62.6,utilization,7,5,16,4.4,0
+918,Schimmel-Breitenberg,Russia,2/20/2020,6/18/2026,$95488410.33,55.5,utilization,7,4,16,8.9,0
+919,Hartmann and Sons,Thailand,12/13/2022,6/5/2026,$84484682.17,57.4,capture,6,4,5,6,0
+920,"Reichel, Leuschke and Medhurst",Ukraine,5/18/2020,12/27/2024,$34764614.98,78.9,Full Chain,4,9,27,2.8,0
+921,"Rice, Lang and Moore",China,8/1/2022,4/23/2026,$92939612.77,94.2,utilization,4,2,21,1.6,0
+922,Funk-Hackett,Indonesia,6/17/2023,9/11/2026,$67498231.35,57.5,utilization,3,2,4,2.9,0
+923,Ferry LLC,Serbia,12/22/2022,3/21/2026,$50724655.69,98.7,T&S,8,5,17,4.9,0
+924,Davis and Sons,Sweden,9/7/2020,5/4/2025,$29851567.51,99.5,Full Chain,2,9,26,9.3,1
+925,"Mayer, Wuckert and Spencer",Philippines,8/12/2020,10/5/2025,$36879865.16,65,Full Chain,2,5,25,7.9,1
+926,"Metz, Nitzsche and Spinka",Philippines,4/25/2023,2/11/2024,$20756459.37,62,T&S,8,9,33,9.5,0
+927,"Brakus, Crooks and Bailey",Brazil,9/12/2021,12/28/2023,$70778743.53,78.4,capture,4,5,14,4.4,0
+928,Cruickshank and Sons,Indonesia,6/16/2021,4/20/2024,$55848196.11,98.8,capture,8,8,12,5.9,0
+929,Farrell LLC,China,1/6/2021,12/17/2025,$5801256.18,55.6,capture,9,7,10,6.7,0
+930,"Romaguera, Barton and Carroll",Japan,4/15/2023,6/10/2025,$82985878.90,72.4,utilization,8,5,22,1.7,0
+931,Hahn-Kling,Vietnam,9/18/2023,5/1/2026,$22353163.74,58.9,Full Chain,9,2,30,8.3,1
+932,Koelpin LLC,Portugal,2/10/2020,9/6/2026,$94571240.64,86.5,Full Chain,1,8,3,9.1,1
+933,"Lynch, Hodkiewicz and Considine",Philippines,12/19/2021,9/7/2026,$44660724.12,67.8,T&S,9,3,19,8.6,1
+934,Blanda and Sons,Jordan,4/6/2020,11/30/2025,$38707836.91,54.5,Full Chain,5,6,-9,4.8,1
+935,"Kemmer, Zboncak and Sanford",Russia,4/6/2020,4/23/2026,$34504211.53,82.8,T&S,7,8,29,2.1,1
+936,Lemke Inc,Indonesia,7/1/2022,1/6/2026,$91858156.19,50.6,Full Chain,4,7,-4,9.4,0
+937,Stiedemann and Sons,Ecuador,11/27/2019,9/23/2024,$80867784.96,93.4,T&S,4,5,34,3.3,0
+938,Russel-Schroeder,Brazil,10/1/2021,12/21/2024,$53066728.80,64.5,T&S,8,5,19,8,1
+939,Dickens LLC,Japan,6/29/2021,5/16/2024,$13691171.95,93.2,T&S,2,2,18,5.7,1
+940,Cronin-Wolf,Pakistan,12/29/2022,7/22/2026,$20695849.18,98.7,T&S,5,4,26,7.6,1
+941,"Hamill, McKenzie and Langosh",China,4/24/2020,3/26/2026,$84378840.97,73.8,capture,1,9,0,4.3,0
+942,Yundt and Sons,Czech Republic,7/29/2020,12/7/2025,$62000538.25,95.6,Full Chain,2,6,19,2.5,1
+943,Emmerich-Sporer,Panama,1/20/2021,5/5/2024,$34853099.40,94.7,T&S,6,2,22,9.5,1
+944,"Lowe, Schuster and Langosh",Indonesia,10/29/2019,5/20/2024,$1624029.43,67.8,T&S,3,2,17,9.1,1
+945,"Schiller, Wisozk and Wunsch",Portugal,2/27/2022,7/17/2024,$93171321.28,83.5,capture,6,6,-7,5.6,0
+946,"Hermann, Lubowitz and Huels",Russia,1/2/2020,1/26/2026,$17725670.02,84.7,T&S,1,7,3,9.3,1
+947,Green Inc,Micronesia,4/19/2021,12/25/2025,$83804860.80,57.6,utilization,2,8,6,9.6,0
+948,Simonis Group,Sweden,4/25/2020,12/18/2025,$27847334.98,86.8,T&S,3,4,7,9.1,1
+949,Fay-McGlynn,Poland,8/26/2021,7/11/2026,$12520573.39,67.1,T&S,6,4,10,8.2,1
+950,"Okuneva, Parker and Lockman",Yemen,8/26/2022,7/2/2026,$63401602.40,54.6,capture,3,4,7,5.9,1
+951,Hamill-Feest,France,4/17/2023,9/19/2026,$79315368.40,86.5,utilization,5,4,9,2.1,0
+952,"Morar, Bins and Mayer",Russia,5/13/2023,10/13/2026,$36803835.93,78.8,capture,2,8,-4,3.8,0
+953,"Murazik, Bashirian and Wisozk",France,11/23/2019,4/9/2024,$67035154.74,54.3,Full Chain,4,5,31,7.4,0
+954,Schultz-Hyatt,Philippines,9/2/2020,1/11/2026,$29821731.97,55.9,utilization,7,6,3,1.2,1
+955,"Luettgen, Homenick and Terry",Mexico,10/6/2020,7/18/2025,$22117905.13,53,T&S,7,2,3,4,1
+956,Christiansen Inc,Russia,1/8/2020,12/19/2024,$26752169.26,82.2,capture,8,6,21,1.3,1
+957,Russel-Pfeffer,Thailand,6/13/2023,2/8/2026,$15869983.14,89.9,T&S,6,2,-9,6.1,1
+958,"Kunze, Kovacek and Huel",China,3/9/2022,5/17/2026,$17998605.27,92.4,capture,8,3,7,2.9,1
+959,"Koepp, Wisozk and Kovacek",Philippines,6/8/2023,9/23/2025,$36945326.56,92.4,Full Chain,4,8,-7,1.3,0
+960,Langosh Inc,Canada,7/29/2021,9/28/2026,$99356207.05,69.3,capture,5,5,6,2.8,0
+961,Heidenreich-Maggio,Norway,6/1/2021,11/26/2023,$31856816.33,97.5,utilization,1,3,-6,5.3,0
+962,Hills and Sons,Mongolia,2/1/2020,6/27/2025,$75722534.69,83.7,capture,3,6,6,1.9,0
+963,Daniel-Yost,Canada,12/23/2019,4/28/2024,$93428481.90,90.2,capture,4,4,22,3.6,0
+964,"Crist, Turcotte and Ruecker",South Korea,10/31/2019,12/9/2025,$97914737.69,97.7,capture,9,5,34,3.5,0
+965,Steuber and Sons,Brazil,5/30/2022,4/30/2024,$46009664.25,62.2,utilization,1,3,24,7.1,0
+966,Christiansen-Mayer,China,10/15/2022,11/5/2024,$74645424.97,75.8,Full Chain,3,7,-2,4.3,0
+967,Armstrong LLC,China,12/8/2022,4/22/2024,$75435288.78,98,utilization,5,8,17,7.6,0
+968,Adams Inc,France,8/30/2023,2/4/2024,$53559906.13,85.1,T&S,5,5,25,6.8,0
+969,Osinski-Koch,Jamaica,6/14/2022,12/29/2024,$67016590.22,86.3,T&S,4,3,1,6.1,1
+970,"Ryan, Glover and Jakubowski",China,8/15/2022,1/11/2026,$3428663.57,95.4,capture,7,8,23,4.7,0
+971,Labadie-Jerde,Indonesia,5/29/2023,2/18/2026,$17639861.82,92,T&S,5,6,2,8.3,1
+972,"Schaefer, Hodkiewicz and Klein",Libya,4/12/2021,12/11/2024,$4166986.02,92.3,T&S,6,8,11,1.4,0
+973,Mohr and Sons,Poland,10/23/2021,8/8/2025,$88019146.19,85,capture,4,3,16,5.2,0
+974,Nitzsche-Hermann,Sweden,7/2/2022,1/10/2024,$36019877.46,97.6,capture,6,5,-5,5.1,0
+975,Farrell LLC,Colombia,4/30/2020,10/16/2026,$3663716.60,87.4,Full Chain,4,3,-8,2.2,1
+976,Koss-Botsford,Poland,12/14/2019,12/1/2025,$63084370.84,78.8,Full Chain,8,8,17,5.5,1
+977,Feest-Rutherford,Morocco,9/8/2022,11/23/2025,$68451966.53,65.7,T&S,6,7,25,2,0
+978,"Johnson, Hills and Keebler",Uganda,5/25/2020,7/21/2025,$52736313.44,96.2,Full Chain,4,9,10,7.5,1
+979,"Mohr, Hansen and Schulist",Sweden,6/12/2022,6/20/2024,$68306891.93,55.5,utilization,5,6,20,2.8,0
+980,Hickle LLC,Ukraine,6/1/2022,1/10/2024,$96636741.43,69.5,utilization,5,8,13,5.8,0
+981,Schuster-Wolff,Colombia,5/27/2022,7/4/2026,$83121001.31,80.8,Full Chain,9,7,26,2,1
+982,Johnston LLC,Russia,9/12/2023,7/28/2024,$26768665.21,86.4,utilization,4,9,18,5.6,0
+983,King and Sons,Greece,12/29/2020,3/1/2024,$64620494.05,69.5,utilization,3,5,25,9.3,0
+984,Kuhn-Stracke,China,3/23/2020,11/24/2025,$25516533.63,52.1,Full Chain,2,2,-7,9.4,1
+985,Sipes Inc,France,2/7/2020,4/5/2024,$16307398.77,75.1,T&S,1,4,26,9.7,1
+986,Lubowitz-Shields,Kenya,10/2/2020,3/12/2024,$74873267.56,96,T&S,3,6,11,1.2,0
+987,Romaguera-O'Kon,China,7/5/2022,2/18/2026,$42153885.79,88.1,Full Chain,6,3,2,2.6,1
+988,Powlowski and Sons,China,12/15/2022,3/14/2026,$75602157.39,74,Full Chain,7,3,-5,6.9,1
+989,Waters and Sons,Brazil,7/14/2022,7/23/2026,$20548604.52,50.7,capture,5,5,2,7.1,1
+990,McClure Inc,Brazil,8/23/2021,11/3/2025,$30238385.69,91.1,T&S,7,6,32,2.1,1
+991,Kassulke-Brekke,Russia,6/14/2020,2/9/2024,$36899376.21,61.3,utilization,5,6,26,2.6,0
+992,Waters-Purdy,China,9/12/2023,10/3/2025,$61107410.61,94.9,T&S,4,8,-2,2.8,0
+993,Mayer and Sons,Russia,5/24/2020,7/9/2025,$30232206.50,59.1,capture,3,4,26,3.2,1
+994,Crooks Group,Iran,5/12/2023,10/11/2026,$19163760.42,55,Full Chain,4,7,14,9.9,1
+995,"Sauer, Daugherty and McLaughlin",China,11/14/2019,8/29/2024,$51230399.26,51.7,Full Chain,7,9,21,7.9,0
+996,Terry-Grimes,China,8/17/2023,3/23/2026,$23925572.49,50.3,T&S,3,7,25,4.2,0
+997,Dickens LLC,France,9/7/2020,7/3/2025,$87475622.39,93.4,T&S,7,6,12,4.6,0
+998,Hauck-Auer,Poland,4/23/2020,11/20/2024,$1259344.27,63.9,utilization,6,5,4,3.5,1
+999,Reynolds-Hettinger,Russia,1/16/2020,4/26/2026,$47882510.76,61.8,Full Chain,5,4,13,9.1,1
